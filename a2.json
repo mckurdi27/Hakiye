@@ -1,0 +1,3680 @@
+{
+  "level": "A2",
+  "scene_id": 10,
+  "scene_title": "Work and Professions",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "work",
+      "type": "verb",
+      "turkish": "Çalışmak",
+      "example_en": "Many people work in modern office buildings.",
+      "example_tr": "Birçok insan modern ofis binalarında çalışıyor.",
+      "related_verbs": ["labor", "operate", "function", "toil", "serve"]
+    },
+    {
+      "word": "employ",
+      "type": "verb",
+      "turkish": "İstihdam etmek, iş vermek",
+      "example_en": "Large companies employ hundreds of skilled workers.",
+      "example_tr": "Büyük şirketler yüzlerce vasıflı işçi istihdam ediyor.",
+      "related_verbs": ["hire", "engage", "appoint", "retain", "utilize"]
+    },
+    {
+      "word": "hire",
+      "type": "verb",
+      "turkish": "İşe almak",
+      "example_en": "The manager hires a new assistant for the department.",
+      "example_tr": "Yönetici departman için yeni bir asistan işe alıyor.",
+      "related_verbs": ["employ", "appoint", "engage", "recruit", "select"]
+    },
+    {
+      "word": "resign",
+      "type": "verb",
+      "turkish": "İstifa etmek",
+      "example_en": "He decides to resign from his job after ten years.",
+      "example_tr": "On yılın ardından işinden istifa etmeye karar veriyor.",
+      "related_verbs": ["quit", "leave", "step down", "depart", "surrender"]
+    },
+    {
+      "word": "quit",
+      "type": "verb",
+      "turkish": "İşi bırakmak, ayrılmak",
+      "example_en": "She quits her position to start her own business.",
+      "example_tr": "Kendi işini kurmak için pozisyonundan ayrılıyor.",
+      "related_verbs": ["resign", "leave", "stop", "abandon", "drop"]
+    },
+    {
+      "word": "earn",
+      "type": "verb",
+      "turkish": "Para kazanmak, maaş almak",
+      "example_en": "Engineers earn good salaries for their expertise.",
+      "example_tr": "Mühendisler uzmanlıkları karşılığında iyi maaşlar kazanır.",
+      "related_verbs": ["gain", "make", "win", "acquire", "secure"]
+    },
+    {
+      "word": "manage",
+      "type": "verb",
+      "turkish": "Yönetmek, idare etmek",
+      "example_en": "Project managers direct teams and handle schedules.",
+      "example_tr": "Proje yöneticileri ekipleri yönlendirir ve takvimleri idare eder.",
+      "related_verbs": ["direct", "control", "administer", "supervise", "lead"]
+    },
+    {
+      "word": "supervise",
+      "type": "verb",
+      "turkish": "Denetlemek, gözetmek",
+      "example_en": "The supervisor checks the quality of production daily.",
+      "example_tr": "Süpervizör üretim kalitesini günlük olarak denetliyor.",
+      "related_verbs": ["oversee", "monitor", "inspect", "watch", "guide"]
+    },
+    {
+      "word": "organize",
+      "type": "verb",
+      "turkish": "Düzenlemek, organize etmek",
+      "example_en": "Secretaries organize business meetings and schedules.",
+      "example_tr": "Sekreterler iş toplantılarını ve takvimleri düzenler.",
+      "related_verbs": ["arrange", "plan", "coordinate", "structure", "prepare"]
+    },
+    {
+      "word": "meet",
+      "type": "verb",
+      "turkish": "Toplantı yapmak, buluşmak",
+      "example_en": "Colleagues meet in the conference room at nine.",
+      "example_tr": "Meslektaşlar saat dokuzda konferans salonunda toplantı yapıyor.",
+      "related_verbs": ["gather", "assemble", "unite", "encounter", "join"]
+    },
+    {
+      "word": "discuss",
+      "type": "verb",
+      "turkish": "Tartışmak, müzakere etmek",
+      "example_en": "Team members discuss marketing strategies together.",
+      "example_tr": "Ekip üyeleri pazarlama stratejilerini birlikte tartışıyor.",
+      "related_verbs": ["debate", "talk", "consider", "review", "explore"]
+    },
+    {
+      "word": "negotiate",
+      "type": "verb",
+      "turkish": "Müzakere etmek, pazarlık yapmak",
+      "example_en": "Sales representatives negotiate contracts with clients.",
+      "example_tr": "Satış temsilcileri müşterilerle sözleşmeler üzerine müzakere ediyor.",
+      "related_verbs": ["bargain", "discuss", "consult", "deal", "mediate"]
+    },
+    {
+      "word": "cooperate",
+      "type": "verb",
+      "turkish": "İşbirliği yapmak",
+      "example_en": "Different departments cooperate to finish tasks on time.",
+      "example_tr": "Farklı departmanlar görevleri zamanında bitirmek için işbirliği yapıyor.",
+      "related_verbs": ["collaborate", "partner", "assist", "join", "contribute"]
+    },
+    {
+      "word": "assist",
+      "type": "verb",
+      "turkish": "Yardım etmek, destek olmak",
+      "example_en": "Office assistants help clients with paperwork.",
+      "example_tr": "Ofis asistanları evrak işlerinde müşterilere yardım ediyor.",
+      "related_verbs": ["help", "aid", "support", "serve", "facilitate"]
+    },
+    {
+      "word": "report",
+      "type": "verb",
+      "turkish": "Rapor etmek, bildirmek",
+      "example_en": "Employees report monthly progress to the director.",
+      "example_tr": "Çalışanlar aylık ilerlemeyi müdüriyete rapor ediyor.",
+      "related_verbs": ["announce", "inform", "notify", "state", "record"]
+    },
+    {
+      "word": "present",
+      "type": "verb",
+      "turkish": "Sunum yapmak",
+      "example_en": "She presents her new project design to the board.",
+      "example_tr": "Yeni proje tasarımını yönetim kuruluna sunuyor.",
+      "related_verbs": ["show", "introduce", "demonstrate", "offer", "exhibit"]
+    },
+    {
+      "word": "lead",
+      "type": "verb",
+      "turkish": "Liderlik etmek, önderlik etmek",
+      "example_en": "Experienced directors lead successful corporate teams.",
+      "example_tr": "Deneyimli yöneticiler başarılı kurumsal ekipere liderlik eder.",
+      "related_verbs": ["guide", "direct", "head", "conduct", "manage"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarılı olmak",
+      "example_en": "Hardworking professionals succeed in their careers.",
+      "example_tr": "Çalışkan profesyoneller kariyerlerinde başarılı olur.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "achieve",
+      "type": "verb",
+      "turkish": "Elde etmek, başarmak (hedefi)",
+      "example_en": "Sales agents achieve their annual targets.",
+      "example_tr": "Satış temsilcileri yıllık hedeflerini elde ediyor (başarıyor).",
+      "related_verbs": ["reach", "attain", "accomplish", "fulfill", "secure"]
+    },
+    {
+      "word": "complete",
+      "type": "verb",
+      "turkish": "Tamamlamak",
+      "example_en": "Workers complete assignments before the deadline.",
+      "example_tr": "İşçiler görevleri son teslim tarihinden önce tamamlıyor.",
+      "related_verbs": ["finish", "conclude", "accomplish", "fulfill", "close"]
+    },
+    {
+      "word": "train",
+      "type": "verb",
+      "turkish": "Eğitmek, staj/eğitim almak",
+      "example_en": "Companies train new staff members in safety rules.",
+      "example_tr": "Şirketler yeni personel üyelerini güvenlik kuralları konusunda eğitiyor.",
+      "related_verbs": ["teach", "educate", "instruct", "prepare", "coach"]
+    },
+    {
+      "word": "learn",
+      "type": "verb",
+      "turkish": "Öğrenmek",
+      "example_en": "Interns learn new computer skills on the job.",
+      "example_tr": "Stajyerler iş başında yeni bilgisayar becerileri öğreniyor.",
+      "related_verbs": ["master", "acquire", "discover", "study", "absorb"]
+    },
+    {
+      "word": "improve",
+      "type": "verb",
+      "turkish": "Geliştirmek, ilerletmek",
+      "example_en": "Workers take language courses to improve career options.",
+      "example_tr": "Çalışanlar kariyer seçeneklerini geliştirmek için dil kursları alıyor.",
+      "related_verbs": ["enhance", "upgrade", "better", "progress", "develop"]
+    },
+    {
+      "word": "promote",
+      "type": "verb",
+      "turkish": "Terfi ettirmek / Ürünün reklamını yapmak",
+      "example_en": "The firm promotes him to senior manager.",
+      "example_tr": "Firma onu kıdemli müdürlüğe terfi ettiriyor.",
+      "related_verbs": ["advance", "elevate", "boost", "advertise", "market"]
+    },
+    {
+      "word": "retire",
+      "type": "verb",
+      "turkish": "Emekli olmak",
+      "example_en": "Many employees retire after working for thirty years.",
+      "example_tr": "Birçok çalışan otuz yıl çalıştıktan sonra emekli oluyor.",
+      "related_verbs": ["leave", "withdraw", "step down", "depart", "vacate"]
+    },
+    {
+      "word": "interview",
+      "type": "verb",
+      "turkish": "Mülakat yapmak, iş görüşmesi yapmak",
+      "example_en": "HR managers interview applicants for open positions.",
+      "example_tr": "İnsan kaynakları yöneticileri açık pozisyonlar için adaylarla mülakat yapıyor.",
+      "related_verbs": ["question", "evaluate", "assess", "meet", "examine"]
+    },
+    {
+      "word": "apply",
+      "type": "verb",
+      "turkish": "Başvurmak (işe)",
+      "example_en": "Recent graduates apply for entry-level jobs online.",
+      "example_tr": "Yeni mezunlar çevrimiçi olarak başlangıç seviyesindeki işlere başvuruyor.",
+      "related_verbs": ["request", "petition", "solicit", "enter", "register"]
+    },
+    {
+      "word": "design",
+      "type": "verb",
+      "turkish": "Tasarlamak",
+      "example_en": "Web designers create modern layouts for websites.",
+      "example_tr": "Web tasarımcıları web siteleri için modern düzenler tasarlıyor.",
+      "related_verbs": ["create", "plan", "build", "shape", "draft"]
+    },
+    {
+      "word": "build",
+      "type": "verb",
+      "turkish": "İnşa etmek, kurmak",
+      "example_en": "Construction workers build houses and office blocks.",
+      "example_tr": "İnşaat işçileri evler ve ofis blokları inşa ediyor.",
+      "related_verbs": ["construct", "create", "make", "assemble", "form"]
+    },
+    {
+      "word": "fix",
+      "type": "verb",
+      "turkish": "Tamir etmek, düzeltmek",
+      "example_en": "IT specialists fix technical problems quickly.",
+      "example_tr": "BT uzmanları teknik sorunları hızlı bir şekilde düzeltiyor.",
+      "related_verbs": ["repair", "mend", "solve", "adjust", "correct"]
+    },
+    {
+      "word": "calculate",
+      "type": "verb",
+      "turkish": "Hesaplamak",
+      "example_en": "Accountants calculate company taxes and budgets.",
+      "example_tr": "Muhasebeciler şirket vergilerini ve bütçelerini hesaplıyor.",
+      "related_verbs": ["compute", "figure", "estimate", "count", "sum"]
+    },
+    {
+      "word": "produce",
+      "type": "verb",
+      "turkish": "Üretmek",
+      "example_en": "Factories produce goods for international markets.",
+      "example_tr": "Fabrikalar uluslararası pazarlar için mal üretiyor.",
+      "related_verbs": ["manufacture", "create", "generate", "make", "yield"]
+    },
+    {
+      "word": "sell",
+      "type": "verb",
+      "turkish": "Satmak",
+      "example_en": "Shop assistants sell products to retail customers.",
+      "example_tr": "Mağaza satış elemanları perakende müşterilere ürün satıyor.",
+      "related_verbs": ["market", "vend", "trade", "retail", "auction"]
+    },
+    {
+      "word": "deliver",
+      "type": "verb",
+      "turkish": "Teslim etmek, sunmak",
+      "example_en": "Couriers deliver packages to offices across the city.",
+      "example_tr": "Kuryeler şehir genelindeki ofislere paketler teslim ediyor.",
+      "related_verbs": ["bring", "convey", "transport", "hand", "distribute"]
+    },
+    {
+      "word": "serve",
+      "type": "verb",
+      "turkish": "Hizmet etmek, servis yapmak",
+      "example_en": "Waiters serve food and drinks in restaurants.",
+      "example_tr": "Garsonlar restoranlarda yiyecek ve içecek servisi yapıyor.",
+      "related_verbs": ["attend", "help", "support", "assist", "provide"]
+    },
+    {
+      "word": "protect",
+      "type": "verb",
+      "turkish": "Korumak (güvenlik görevlisi)",
+      "example_en": "Security guards protect buildings and property.",
+      "example_tr": "Güvenlik görevlileri binaları ve mülkiyeti koruyor.",
+      "related_verbs": ["guard", "defend", "shield", "secure", "preserve"]
+    },
+    {
+      "word": "treat",
+      "type": "verb",
+      "turkish": "Tedavi etmek (doktor)",
+      "example_en": "Doctors treat sick patients at the hospital.",
+      "example_tr": "Doktorlar hastanede hasta hastaları tedavi ediyor.",
+      "related_verbs": ["cure", "heal", "handle", "manage", "address"]
+    },
+    {
+      "word": "cure",
+      "type": "verb",
+      "turkish": "Çare olmak, iyileştirmek",
+      "example_en": "Medical researchers work to cure illnesses.",
+      "example_tr": "Tıbbi araştırmacılar hastalıkları tedavi etmek için çalışıyor.",
+      "related_verbs": ["heal", "treat", "fix", "remedy", "restore"]
+    },
+    {
+      "word": "write",
+      "type": "verb",
+      "turkish": "Yazmak (makale/rapor)",
+      "example_en": "Journalists write articles for daily newspapers.",
+      "example_tr": "Gazeteciler günlük gazeteler için makaleler yazıyor.",
+      "related_verbs": ["author", "compose", "draft", "note", "record"]
+    },
+    {
+      "word": "travel",
+      "type": "verb",
+      "turkish": "Seyahat etmek (iş gezisi)",
+      "example_en": "Business consultants travel abroad for meetings.",
+      "example_tr": "İş danışmanları toplantılar için yurt dışına seyahat ediyor.",
+      "related_verbs": ["journey", "trip", "tour", "visit", "explore"]
+    },
+    {
+      "word": "earn",
+      "type": "verb",
+      "turkish": "Kazanmak",
+      "example_en": "Skilled workers earn respect through dedication.",
+      "example_tr": "Vasıflı işçiler özverileri sayesinde saygı kazanır.",
+      "related_verbs": ["gain", "make", "win", "acquire", "secure"]
+    },
+    {
+      "word": "cooperate",
+      "type": "verb",
+      "turkish": "Yardımlaşmak",
+      "example_en": "Team members cooperate to solve problems.",
+      "example_tr": "Ekip üyeleri sorunları çözmek için yardımlaşıyor.",
+      "related_verbs": ["collaborate", "partner", "assist", "join", "contribute"]
+    },
+    {
+      "word": "communicate",
+      "type": "verb",
+      "turkish": "İletişim kurmak",
+      "example_en": "Professionals communicate clearly with clients.",
+      "example_tr": "Profesyoneller müşterilerle net bir şekilde iletişim kurar.",
+      "related_verbs": ["talk", "speak", "correspond", "interact", "contact"]
+    },
+    {
+      "word": "plan",
+      "type": "verb",
+      "turkish": "Planlamak",
+      "example_en": "Managers plan weekly office workflows.",
+      "example_tr": "Yöneticiler haftalık ofis iş akışlarını planlıyor.",
+      "related_verbs": ["design", "prepare", "arrange", "schedule", "map"]
+    },
+    {
+      "word": "organize",
+      "type": "verb",
+      "turkish": "Düzenlemek",
+      "example_en": "Event coordinators organize corporate conferences.",
+      "example_tr": "Etkinlik koordinatörleri kurumsal konferanslar düzenliyor.",
+      "related_verbs": ["arrange", "plan", "coordinate", "structure", "prepare"]
+    },
+    {
+      "word": "solve",
+      "type": "verb",
+      "turkish": "Çözmek (problemi)",
+      "example_en": "Engineers solve complex mechanical problems.",
+      "example_tr": "Mühendisler karmaşık mekanik problemleri çözüyor.",
+      "related_verbs": ["resolve", "fix", "address", "figure", "clear"]
+    },
+    {
+      "word": "value",
+      "type": "verb",
+      "turkish": "Değer vermek, önemsemek",
+      "example_en": "Employers value punctuality and hard work.",
+      "example_tr": "İşverenler dakikliğe ve sıkı çalışmaya değer verir.",
+      "related_verbs": ["appreciate", "prize", "cherish", "esteem", "respect"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarmak",
+      "example_en": "Workers succeed when they stay focused on goals.",
+      "example_tr": "Çalışanlar hedeflere odaklanmış kaldıklarında başarılı olur.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Keyif almak (işinden)",
+      "example_en": "Many people enjoy creative and rewarding professions.",
+      "example_tr": "Birçok insan yaratıcı ve ödüllendirici mesleklerden keyif alır.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    },
+    {
+      "word": "retire",
+      "type": "verb",
+      "turkish": "İş hayatını tamamlayıp emekli olmak",
+      "example_en": "He plans to retire and travel the world next year.",
+      "example_tr": "Gelecek yıl emekli olmayı ve dünyayı gezmeyi planlıyor.",
+      "related_verbs": ["leave", "withdraw", "step down", "depart", "vacate"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 9,
+  "scene_title": "Travel and Directions",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "travel",
+      "type": "verb",
+      "turkish": "Seyahat etmek",
+      "example_en": "Millions of people travel during summer holidays.",
+      "example_tr": "Milyonlarca insan yaz tatillerinde seyahat ediyor.",
+      "related_verbs": ["journey", "trip", "tour", "visit", "explore"]
+    },
+    {
+      "word": "visit",
+      "type": "verb",
+      "turkish": "Ziyaret etmek, gezmek",
+      "example_en": "Tourists visit historical museums in the city center.",
+      "example_tr": "Turistler şehir merkezindeki tarihi müzeleri ziyaret ediyor.",
+      "related_verbs": ["see", "tour", "explore", "attend", "meet"]
+    },
+    {
+      "word": "explore",
+      "type": "verb",
+      "turkish": "Keşfetmek",
+      "example_en": "Backpackers love to explore narrow streets in old towns.",
+      "example_tr": "Sırt çantalı gezginler eski kasabalardaki dar sokakları keşfetmeyi sever.",
+      "related_verbs": ["discover", "investigate", "inspect", "search", "examine"]
+    },
+    {
+      "word": "arrive",
+      "type": "verb",
+      "turkish": "Varmak, ulaşmak",
+      "example_en": "The train arrives at the station on time.",
+      "example_tr": "Tren istasyona zamanında varıyor.",
+      "related_verbs": ["reach", "get", "come", "land", "appear"]
+    },
+    {
+      "word": "depart",
+      "type": "verb",
+      "turkish": "Hareket etmek, kalkmak",
+      "example_en": "Flights depart from terminal two every hour.",
+      "example_tr": "Uçuşlar her saat ikinci terminalden hareket ediyor.",
+      "related_verbs": ["leave", "start", "exit", "go", "set"]
+    },
+    {
+      "word": "book",
+      "type": "verb",
+      "turkish": "Yer ayırtmak, rezervasyon yapmak",
+      "example_en": "She books a double room at the seaside hotel.",
+      "example_tr": "Sahil otelinde çift kişilik bir oda ayırtıyor.",
+      "related_verbs": ["reserve", "order", "secure", "schedule", "arrange"]
+    },
+    {
+      "word": "reserve",
+      "type": "verb",
+      "turkish": "Rezervasyon yapmak, ayırmak",
+      "example_en": "Passengers reserve seats in advance for long journeys.",
+      "example_tr": "Yolcular uzun yolculuklar için önceden koltuk ayırtır.",
+      "related_verbs": ["book", "keep", "save", "hold", "store"]
+    },
+    {
+      "word": "pack",
+      "type": "verb",
+      "turkish": "Valiz hazırlamak, bavul toplamak",
+      "example_en": "He packs his suitcase the night before the trip.",
+      "example_tr": "Yolculuktan önceki gece bavulunu topluyor.",
+      "related_verbs": ["wrap", "load", "fill", "prepare", "bundle"]
+    },
+    {
+      "word": "unpack",
+      "type": "verb",
+      "turkish": "Bavul açmak, eşyaları yerleştirmek",
+      "example_en": "Guests unpack their clothes after entering the hotel room.",
+      "example_tr": "Misafirler otel odasına girdikten sonra kıyafetlerini bavuldan çıkarıp yerleştiriyor.",
+      "related_verbs": ["empty", "unload", "open", "clear", "disclose"]
+    },
+    {
+      "word": "stay",
+      "type": "verb",
+      "turkish": "Kalmak, konaklamak",
+      "example_en": "We stay at a cozy guesthouse near the mountains.",
+      "example_tr": "Dağların yakınındaki rahat bir pansiyonda kalıyoruz.",
+      "related_verbs": ["remain", "reside", "dwell", "lodge", "wait"]
+    },
+    {
+      "word": "rent",
+      "type": "verb",
+      "turkish": "Kiralamak (araba/daire)",
+      "example_en": "Tourists rent cars to drive around the island.",
+      "example_tr": "Turistler adanın etrafında araba sürmek için araç kiralıyor.",
+      "related_verbs": ["lease", "hire", "borrow", "charter", "rent out"]
+    },
+    {
+      "word": "drive",
+      "type": "verb",
+      "turkish": "Araba sürmek",
+      "example_en": "He drives safely on the highway at night.",
+      "example_tr": "Gece otoyolda güvenli bir şekilde araç sürüyor.",
+      "related_verbs": ["operate", "steer", "pilot", "ride", "navigate"]
+    },
+    {
+      "word": "fly",
+      "type": "verb",
+      "turkish": "Uçmak",
+      "example_en": "Business people fly to international conferences frequently.",
+      "example_tr": "İş insanları sık sık uluslararası konferanslara uçuyor.",
+      "related_verbs": ["soar", "glide", "hover", "pilot", "cruise"]
+    },
+    {
+      "word": "ride",
+      "type": "verb",
+      "turkish": "Binmek (bisiklet/tren/otobüs)",
+      "example_en": "Citizens ride public buses to commute to work.",
+      "example_tr": "Vatandaşlar işe gidip gelmek için toplu taşıma otobüslerine biniyor.",
+      "related_verbs": ["travel", "handle", "control", "operate", "mount"]
+    },
+    {
+      "word": "walk",
+      "type": "verb",
+      "turkish": "Yürümek",
+      "example_en": "Visitors walk along the historic city walls.",
+      "example_tr": "Ziyaretçiler tarihi şehir surları boyunca yürüyor.",
+      "related_verbs": ["stroll", "march", "step", "hike", "pace"]
+    },
+    {
+      "word": "cross",
+      "type": "verb",
+      "turkish": "Karşıya geçmek",
+      "example_en": "Pedestrians cross the street at the green light.",
+      "example_tr": "Yayalar yeşil ışıkta caddenin karşı tarafına geçiyor.",
+      "related_verbs": ["traverse", "pass", "bridge", "intersect", "cut"]
+    },
+    {
+      "word": "turn",
+      "type": "verb",
+      "turkish": "Dönmek (sağa/sola)",
+      "example_en": "Turn left at the next traffic lights.",
+      "example_tr": "Sonraki trafik ışıklarından sola dönün.",
+      "related_verbs": ["rotate", "spin", "bend", "curve", "divert"]
+    },
+    {
+      "word": "follow",
+      "type": "verb",
+      "turkish": "Takip etmek (yolu/tabelayı)",
+      "example_en": "Follow the road signs to reach the airport.",
+      "example_tr": "Havalimanına ulaşmak için yol tabelalarını takip edin.",
+      "related_verbs": ["pursue", "track", "shadow", "obey", "trace"]
+    },
+    {
+      "word": "find",
+      "type": "verb",
+      "turkish": "Bulmak (yeri/adresi)",
+      "example_en": "Can you help me find the nearest metro station?",
+      "example_tr": "En yakın metro istasyonunu bulmama yardım edebilir misiniz?",
+      "related_verbs": ["discover", "locate", "spot", "detect", "encounter"]
+    },
+    {
+      "word": "lose",
+      "type": "verb",
+      "turkish": "Kaybetmek, kaybolmak",
+      "example_en": "Tourists sometimes lose their way in big cities.",
+      "example_tr": "Turistler bazen büyük şehirlerde yollarını kaybeder.",
+      "related_verbs": ["misplace", "forfeit", "drop", "miss", "fail"]
+    },
+    {
+      "word": "ask",
+      "type": "verb",
+      "turkish": "Sormak (yol tarifi istemek)",
+      "example_en": "He asks a police officer for directions.",
+      "example_tr": "Bir polis memuruna yol tarifi soruyor.",
+      "related_verbs": ["question", "inquire", "request", "demand", "query"]
+    },
+    {
+      "word": "explain",
+      "type": "verb",
+      "turkish": "Açıklamak, tarif etmek",
+      "example_en": "The local guide explains the history of the castle.",
+      "example_tr": "Yerel rehber kalenin tarihini açıklıyor.",
+      "related_verbs": ["describe", "clarify", "illustrate", "interpret", "define"]
+    },
+    {
+      "word": "check",
+      "type": "verb",
+      "turkish": "Kontrol etmek / Giriş yapmak (otel)",
+      "example_en": "Guests check in at the hotel reception desk.",
+      "example_tr": "Misafirler otel resepsiyon masasında giriş işlemlerini yapıyor.",
+      "related_verbs": ["inspect", "verify", "examine", "register", "monitor"]
+    },
+    {
+      "word": "leave",
+      "type": "verb",
+      "turkish": "Ayrılmak, çıkış yapmak (otelden)",
+      "example_en": "Travelers check out and leave the hotel by noon.",
+      "example_tr": "Gezginler öğleye doğru otelden çıkış yapıp ayrılıyor.",
+      "related_verbs": ["depart", "exit", "quit", "abandon", "vacate"]
+    },
+    {
+      "word": "pay",
+      "type": "verb",
+      "turkish": "Ödeme yapmak (bilet/konaklama)",
+      "example_en": "You pay for your train ticket online.",
+      "example_tr": "Tren biletinizin ödemesini internet üzerinden yapıyorsunuz.",
+      "related_verbs": ["settle", "remit", "disburse", "clear", "compensate"]
+    },
+    {
+      "word": "cost",
+      "type": "verb",
+      "turkish": "Fiyatı olmak, mal olmak",
+      "example_en": "How much does a return ticket to Paris cost?",
+      "example_tr": "Paris'e gidiş-dönüş biletinin fiyatı ne kadar?",
+      "related_verbs": ["price", "charge", "value", "demand", "require"]
+    },
+    {
+      "word": "save",
+      "type": "verb",
+      "turkish": "Para biriktirmek (seyahat için)",
+      "example_en": "She saves money all year to travel abroad.",
+      "example_tr": "Yurt dışına seyahat etmek için bütün yıl para biriktiriyor.",
+      "related_verbs": ["accumulate", "collect", "reserve", "store", "economize"]
+    },
+    {
+      "word": "plan",
+      "type": "verb",
+      "turkish": "Planlamak (seyahati)",
+      "example_en": "Families plan their summer vacation itinerary carefully.",
+      "example_tr": "Aileler yaz tatili güzergahını dikkatlice planlıyor.",
+      "related_verbs": ["design", "prepare", "arrange", "schedule", "map"]
+    },
+    {
+      "word": "miss",
+      "type": "verb",
+      "turkish": "Kaçırmak (treni/uçuşu)",
+      "example_en": "Run quickly so you do not miss the bus.",
+      "example_tr": "Otobüsü kaçırmamak için hızlıca koş.",
+      "related_verbs": ["fail", "lose", "skip", "escape", "avoid"]
+    },
+    {
+      "word": "catch",
+      "type": "verb",
+      "turkish": "Yetişmek, yakalamak (treni/otobüsü)",
+      "example_en": "We need to leave early to catch the morning flight.",
+      "example_tr": "Sabah uçuşuna yetişmek için erken ayrılmamız gerekiyor.",
+      "related_verbs": ["grab", "capture", "snatch", "trap", "seize"]
+    },
+    {
+      "word": "wait",
+      "type": "verb",
+      "turkish": "Beklemek",
+      "example_en": "Passengers wait for the platform announcement.",
+      "example_tr": "Yolcular peron anonsunu bekliyor.",
+      "related_verbs": ["stay", "pause", "remain", "halt", "darry"]
+    },
+    {
+      "word": "board",
+      "type": "verb",
+      "turkish": "Uçağa/trene binmek",
+      "example_en": "Passengers board the plane thirty minutes before departure.",
+      "example_tr": "Yolcular kalkıştan otuz dakika önce uçağa biniyor.",
+      "related_verbs": ["enter", "mount", "embark", "catch", "get"]
+    },
+    {
+      "word": "land",
+      "type": "verb",
+      "turkish": "İnmek (uçak için yere basmak)",
+      "example_en": "The airplane lands safely amidst stormy weather.",
+      "example_tr": "Uçak fırtınalı hava ortasında güvenli bir şekilde iniş yapıyor.",
+      "related_verbs": ["touchdown", "arrive", "descend", "fall", "settle"]
+    },
+    {
+      "word": "take off",
+      "type": "verb",
+      "turkish": "Kalkış yapmak (uçak)",
+      "example_en": "The jet takes off smoothly from the runway.",
+      "example_tr": "Yolcu uçağı pistten sorunsuz bir şekilde havalanıyor (kalkış yapıyor).",
+      "related_verbs": ["depart", "leave", "rise", "ascend", "launch"]
+    },
+    {
+      "word": "pack",
+      "type": "verb",
+      "turkish": "Toplamak, paketlemek",
+      "example_en": "Remember to pack your passport and ticket.",
+      "example_tr": "Pasaportunu ve biletini paketlemeyi (bavula koymayı) unutma.",
+      "related_verbs": ["wrap", "load", "fill", "prepare", "bundle"]
+    },
+    {
+      "word": "photograph",
+      "type": "verb",
+      "turkish": "Fotoğraflamak",
+      "example_en": "Tourists photograph famous architectural monuments.",
+      "example_tr": "Turistler ünlü mimari anıtların fotoğraflarını çekiyor.",
+      "related_verbs": ["snap", "shoot", "capture", "film", "record"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Keyif almak, tadını çıkarmak",
+      "example_en": "Visitors enjoy wonderful sea views from the balcony.",
+      "example_tr": "Ziyaretçiler balkondan harika deniz manzarasının tadını çıkarıyor.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    },
+    {
+      "word": "relax",
+      "type": "verb",
+      "turkish": "Dinlenmek, tatil yapıp rahatlamak",
+      "example_en": "Holidaymakers relax on sandy beaches all day long.",
+      "example_tr": "Tatilciler bütün gün kumsallarda dinlenip rahatlıyor.",
+      "related_verbs": ["rest", "unwind", "calm", "ease", "loosen"]
+    },
+    {
+      "word": "spend",
+      "type": "verb",
+      "turkish": "Vakit/para harcamak",
+      "example_en": "They spend two weeks touring European capitals.",
+      "example_tr": "Avrupa başkentlerini gezinerek iki hafta geçiriyorlar.",
+      "related_verbs": ["pass", "utilize", "invest", "occupy", "waste"]
+    },
+    {
+      "word": "return",
+      "type": "verb",
+      "turkish": "Geri dönmek",
+      "example_en": "Workers return home after the holiday ends.",
+      "example_tr": "Tatil sona erdikten sonra işçiler eve geri dönüyor.",
+      "related_verbs": ["revert", "restore", "come back", "go back", "replied"]
+    },
+    {
+      "word": "meet",
+      "type": "verb",
+      "turkish": "Karşılamak, buluşmak (istasyonda)",
+      "example_en": "Friends meet arriving travelers at the airport arrival gate.",
+      "example_tr": "Arkadaşlar havalimanı varış kapısında gelen yolcuları karşılıyor.",
+      "related_verbs": ["gather", "assemble", "unite", "encounter", "join"]
+    },
+    {
+      "word": "recommend",
+      "type": "verb",
+      "turkish": "Tavsiye etmek (gezilecek yeri)",
+      "example_en": "The hotel receptionist recommends local seafood restaurants.",
+      "example_tr": "Otel resepsiyonisti yerel deniz ürünleri restoranlarını tavsiye ediyor.",
+      "related_verbs": ["suggest", "advise", "endorse", "propose", "advocate"]
+    },
+    {
+      "word": "suggest",
+      "type": "verb",
+      "turkish": "Önermek",
+      "example_en": "He suggests taking a guided city tour.",
+      "example_tr": "Rehber eşliğinde şehir turu yapmayı öneriyor.",
+      "related_verbs": ["recommend", "propose", "advise", "offer", "hint"]
+    },
+    {
+      "word": "change",
+      "type": "verb",
+      "turkish": "Aktarma yapmak, değiştirmek (tren/otobüs)",
+      "example_en": "You need to change trains at the central station.",
+      "example_tr": "Merkezi istasyonda tren aktarması yapmanız (değiştirmeniz) gerekiyor.",
+      "related_verbs": ["switch", "alter", "modify", "convert", "transform"]
+    },
+    {
+      "word": "delay",
+      "type": "verb",
+      "turkish": "Geciktirmek, ertelemek",
+      "example_en": "Heavy fog delays morning flights.",
+      "example_tr": "Yoğun sis sabah uçuşlarını geciktiriyor.",
+      "related_verbs": ["postpone", "defer", "slow", "prolong", "stall"]
+    },
+    {
+      "word": "cancel",
+      "type": "verb",
+      "turkish": "İptal etmek",
+      "example_en": "Airlines cancel flights during severe storms.",
+      "example_tr": "Havayolları şiddetli fırtınalar sırasında uçuşları iptal ediyor.",
+      "related_verbs": ["call off", "terminate", "abort", "revoke", "delete"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarmak (seyahat planını sorunsuz tamamlamayı)",
+      "example_en": "She succeeds in visiting all planned destinations.",
+      "example_tr": "Planlanan tüm destinasyonları ziyaret etmeyi başarıyor.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "value",
+      "type": "verb",
+      "turkish": "Değer vermek, önemsemek",
+      "example_en": "Experienced travelers value cultural diversity.",
+      "example_tr": "Deneyimli gezginler kültürel çeşitliliğe değer verir.",
+      "related_verbs": ["appreciate", "prize", "cherish", "esteem", "respect"]
+    },
+    {
+      "word": "gather",
+      "type": "verb",
+      "turkish": "Toplanmak (tur grubu)",
+      "example_en": "The tour group gathers outside the museum entrance.",
+      "example_tr": "Tur grubu müze girişinin dışında toplanıyor.",
+      "related_verbs": ["collect", "assemble", "meet", "unite", "cluster"]
+    },
+    {
+      "word": "experience",
+      "type": "verb",
+      "turkish": "Deneyimlemek, yaşamak",
+      "example_en": "Travelers experience different traditions around the world.",
+      "example_tr": "Gezginler dünya genelinde farklı gelenekleri deneyimliyor.",
+      "related_verbs": ["feel", "encounter", "undergo", "live", "taste"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 8,
+  "scene_title": "Technology and Communications",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "call",
+      "type": "verb",
+      "turkish": "Aramak, telefon etmek",
+      "example_en": "She calls her parents every Sunday evening.",
+      "example_tr": "Her pazar akşamı ailesini arar.",
+      "related_verbs": ["ring", "phone", "contact", "dial", "summon"]
+    },
+    {
+      "word": "text",
+      "type": "verb",
+      "turkish": "Mesaj göndermek, kısa mesaj yazmak",
+      "example_en": "Teenagers text their friends throughout the day.",
+      "example_tr": "Gençler gün boyunca arkadaşlarına mesaj atar.",
+      "related_verbs": ["message", "write", "send", "type", "communicate"]
+    },
+    {
+      "word": "email",
+      "type": "verb",
+      "turkish": "E-posta göndermek",
+      "example_en": "Employees email documents to their managers.",
+      "example_tr": "Çalışanlar yöneticilerine belgeleri e-postayla gönderir.",
+      "related_verbs": ["message", "send", "write", "forward", "transmit"]
+    },
+    {
+      "word": "browse",
+      "type": "verb",
+      "turkish": "İnternette gezinmek, göz atmak",
+      "example_en": "He browses news websites during breakfast.",
+      "example_tr": "Kahvaltı sırasında haber web sitelerinde geziniyor.",
+      "related_verbs": ["surf", "explore", "scan", "search", "look"]
+    },
+    {
+      "word": "surf",
+      "type": "verb",
+      "turkish": "İnternette sörf yapmak",
+      "example_en": "Students surf the internet for their school projects.",
+      "example_tr": "Öğrenciler okul projeleri için internette sörf yapıyor.",
+      "related_verbs": ["browse", "navigate", "explore", "search", "scan"]
+    },
+    {
+      "word": "download",
+      "type": "verb",
+      "turkish": "İndirmek (dosya/uygulama)",
+      "example_en": "You can download this mobile app for free.",
+      "example_tr": "Bu mobil uygulamayı ücretsiz olarak indirebilirsiniz.",
+      "related_verbs": ["save", "transfer", "obtain", "acquire", "get"]
+    },
+    {
+      "word": "upload",
+      "type": "verb",
+      "turkish": "Yüklemek (dosya/fotoğraf)",
+      "example_en": "She uploads vacation photos to social media.",
+      "example_tr": "Tatil fotoğraflarını sosyal medyaya yüklüyor.",
+      "related_verbs": ["transfer", "post", "share", "transmit", "send"]
+    },
+    {
+      "word": "click",
+      "type": "verb",
+      "turkish": "Tıklamak",
+      "example_en": "Click on the blue link to open the webpage.",
+      "example_tr": "Web sayfasını açmak için mavi bağlantıya tıklayın.",
+      "related_verbs": ["press", "tap", "select", "hit", "trigger"]
+    },
+    {
+      "word": "tap",
+      "type": "verb",
+      "turkish": "Dokunmak (ekrana)",
+      "example_en": "Tap the screen to start the video.",
+      "example_tr": "Videoyu başlatmak için ekrana dokunun.",
+      "related_verbs": ["touch", "press", "click", "hit", "strike"]
+    },
+    {
+      "word": "type",
+      "type": "verb",
+      "turkish": "Yazmak (klavyeyle)",
+      "example_en": "He types his password into the login box.",
+      "example_tr": "Şifresini giriş kutucuğuna yazıyor.",
+      "related_verbs": ["enter", "write", "input", "key", "compose"]
+    },
+    {
+      "word": "search",
+      "type": "verb",
+      "turkish": "Aramak, araştırmak",
+      "example_en": "People search for information using search engines.",
+      "example_tr": "İnsanlar arama motorlarını kullanarak bilgi arar.",
+      "related_verbs": ["look", "seek", "explore", "investigate", "hunt"]
+    },
+    {
+      "word": "print",
+      "type": "verb",
+      "turkish": "Yazdırmak (çıktı almak)",
+      "example_en": "Can you print this ticket for my flight?",
+      "example_tr": "Uçuşum için bu bileti yazdırabilir misin?",
+      "related_verbs": ["copy", "publish", "output", "reproduce", "run"]
+    },
+    {
+      "word": "scan",
+      "type": "verb",
+      "turkish": "Taratmak (belgeyi)",
+      "example_en": "The office assistant scans the signed contract.",
+      "example_tr": "Ofis asistanı imzalanan sözleşmeyi taratıyor.",
+      "related_verbs": ["examine", "read", "review", "digitize", "inspect"]
+    },
+    {
+      "word": "share",
+      "type": "verb",
+      "turkish": "Paylaşmak (gönderi/video)",
+      "example_en": "Users share interesting videos with their followers.",
+      "example_tr": "Kullanıcılar ilginç videoları takipçileriyle paylaşıyor.",
+      "related_verbs": ["distribute", "exchange", "circulate", "post", "divulge"]
+    },
+    {
+      "word": "post",
+      "type": "verb",
+      "turkish": "Gönderi paylaşmak, yayınlamak",
+      "example_en": "She posts updates about her travels online.",
+      "example_tr": "Çevrimiçi olarak seyahatleri hakkında güncellemeler yayınlıyor.",
+      "related_verbs": ["publish", "share", "upload", "display", "announce"]
+    },
+    {
+      "word": "connect",
+      "type": "verb",
+      "turkish": "Bağlanmak (internete/cihaza)",
+      "example_en": "My laptop connects to the hotel Wi-Fi automatically.",
+      "example_tr": "Dizüstü bilgisayarım otel Wi-Fi ağına otomatik olarak bağlanıyor.",
+      "related_verbs": ["link", "join", "attach", "bind", "unite"]
+    },
+    {
+      "word": "disconnect",
+      "type": "verb",
+      "turkish": "Bağlantıyı kesmek",
+      "example_en": "Remember to disconnect from the network after use.",
+      "example_tr": "Kullandıktan sonra ağ bağlantısını kesmeyi unutmayın.",
+      "related_verbs": ["detach", "unlink", "separate", "cut", "unplug"]
+    },
+    {
+      "word": "charge",
+      "type": "verb",
+      "turkish": "Şarj etmek",
+      "example_en": "I need to charge my smartphone before going out.",
+      "example_tr": "Dışarı çıkmadan önce akıllı telefonumu şarj etmem gerekiyor.",
+      "related_verbs": ["power", "energize", "plug", "fill", "recharge"]
+    },
+    {
+      "word": "plug",
+      "type": "verb",
+      "turkish": "Fişe takmak",
+      "example_en": "Plug the charger into the electrical wall socket.",
+      "example_tr": "Şarj aletini duvardaki elektrik prizine takın.",
+      "related_verbs": ["connect", "insert", "attach", "join", "fix"]
+    },
+    {
+      "word": "unplug",
+      "type": "verb",
+      "turkish":ąp fişten çekmek",
+      "example_en": "Unplug household electronics during thunderstorms.",
+      "example_tr": "Fırtınalar sırasında ev elektronik aletlerini fişten çekin.",
+      "related_verbs": ["disconnect", "remove", "detach", "pull", "extract"]
+    },
+    {
+      "word": "switch",
+      "type": "verb",
+      "turkish": "Açmak / Kapatmak (düğmeyle)",
+      "example_en": "Switch off your mobile phones during the meeting.",
+      "example_tr": "Toplantı sırasında cep telefonlarınızı kapatın.",
+      "related_verbs": ["turn", "toggle", "change", "alter", "transform"]
+    },
+    {
+      "word": "update",
+      "type": "verb",
+      "turkish": "Güncellemek",
+      "example_en": "The system prompts you to update software regularly.",
+      "example_tr": "Sistem, yazılımı düzenli olarak güncellemenizi ister.",
+      "related_verbs": ["upgrade", "refresh", "modernize", "renew", "revise"]
+    },
+    {
+      "word": "install",
+      "type": "verb",
+      "turkish": "Yüklemek, kurmak (program)",
+      "example_en": "He installs a new security program on his computer.",
+      "example_tr": "Bilgisayarına yeni bir güvenlik programı kuruyor.",
+      "related_verbs": ["setup", "put", "place", "establish", "mount"]
+    },
+    {
+      "word": "delete",
+      "type": "verb",
+      "turkish": "Silmek (dosya/mesaj)",
+      "example_en": "She deletes old emails to free up storage space.",
+      "example_tr": "Depolama alanından yer açmak için eski e-postaları siliyor.",
+      "related_verbs": ["remove", "erase", "clear", "cancel", "eliminate"]
+    },
+    {
+      "word": "save",
+      "type": "verb",
+      "turkish": "Kaydetmek (dosyayı)",
+      "example_en": "Always save your document before closing the program.",
+      "example_tr": "Programı kapatmadan önce belgenizi daima kaydedin.",
+      "related_verbs": ["store", "keep", "preserve", "protect", "backup"]
+    },
+    {
+      "word": "copy",
+      "type": "verb",
+      "turkish": "Kopyalamak",
+      "example_en": "You can copy and paste text easily using shortcuts.",
+      "example_tr": "Kısayolları kullanarak metni kolayca kopyalayıp yapıştırabilirsiniz.",
+      "related_verbs": ["duplicate", "replicate", "imitate", "repeat", "mimic"]
+    },
+    {
+      "word": "paste",
+      "type": "verb",
+      "turkish": "Yapıştırmak (metni/görseli)",
+      "example_en": "Paste the copied address into the browser bar.",
+      "example_tr": "Kopyalanan adresi tarayıcı çubuğuna yapıştırın.",
+      "related_verbs": ["insert", "attach", "fix", "join", "apply"]
+    },
+    {
+      "word": "restart",
+      "type": "verb",
+      "turkish": "Yeniden başlatmak",
+      "example_en": "Restart your computer if the internet connection freezes.",
+      "example_tr": "İnternet bağlantısı donarsa bilgisayarınızı yeniden başlatın.",
+      "related_verbs": ["reboot", "reset", "refresh", "renew", "start"]
+    },
+    {
+      "word": "reset",
+      "type": "verb",
+      "turkish": "Sıfırlamak",
+      "example_en": "You can reset your password using the email link.",
+      "example_tr": "E-posta bağlantısını kullanarak şifrenizi sıfırlayabilirsiniz.",
+      "related_verbs": ["restart", "reboot", "clear", "adjust", "restore"]
+    },
+    {
+      "word": "block",
+      "type": "verb",
+      "turkish": "Engellemek (numarayı/hesabı)",
+      "example_en": "She blocks spam callers on her phone.",
+      "example_tr": "Telefonunda istenmeyen arama yapanları engelliyor.",
+      "related_verbs": ["stop", "prevent", "bar", "obstruct", "restrict"]
+    },
+    {
+      "word": "hack",
+      "type": "verb",
+      "turkish": "Hacklemek, sızmak",
+      "example_en": "Cybercriminals try to hack vulnerable computer networks.",
+      "example_tr": "Siber suçlular savunmasız bilgisayar ağlarına sızmaya çalışır.",
+      "related_verbs": ["breach", "invade", "crack", "penetrate", "break"]
+    },
+    {
+      "word": "protect",
+      "type": "verb",
+      "turkish": "Korumak (veriyi/şifreyi)",
+      "example_en": "Strong passwords protect your personal accounts online.",
+      "example_tr": "Güçlü şifreler çevrimiçi kişisel hesaplarınızı korur.",
+      "related_verbs": ["guard", "defend", "shield", "secure", "preserve"]
+    },
+    {
+      "word": "function",
+      "type": "verb",
+      "turkish": "Çalışmak, işlev görmek",
+      "example_en": "The new smartphone functions smoothly.",
+      "example_tr": "Yeni akıllı telefon sorunsuz bir şekilde çalışıyor.",
+      "related_verbs": ["operate", "work", "run", "act", "perform"]
+    },
+    {
+      "word": "operate",
+      "type": "verb",
+      "turkish": "Kullanmak, çalıştırmak (cihazı)",
+      "example_en": "Elderly people learn how to operate modern gadgets.",
+      "example_tr": "Yaşlı insanlar modern cihazları nasıl çalıştıracaklarını öğreniyor.",
+      "related_verbs": ["run", "handle", "control", "manage", "use"]
+    },
+    {
+      "word": "repair",
+      "type": "verb",
+      "turkish": "Tamir etmek (elektronik cihazı)",
+      "example_en": "Technicians repair broken screens in digital devices.",
+      "example_tr": "Teknisyenler dijital cihazlardaki kırık ekranları tamir ediyor.",
+      "related_verbs": ["fix", "mend", "restore", "service", "correct"]
+    },
+    {
+      "word": "replace",
+      "type": "verb",
+      "turkish": "Değiştirmek, yenisiyle değiştirmek",
+      "example_en": "It is cheaper to replace the battery than buy a new phone.",
+      "example_tr": "Bataryayı değiştirmek yeni bir telefon almaktan daha ucuzdur.",
+      "related_verbs": ["exchange", "substitute", "swap", "renew", "change"]
+    },
+    {
+      "word": "record",
+      "type": "verb",
+      "turkish": "Kaydetmek (video/ses)",
+      "example_en": "He records a tutorial video for his online channel.",
+      "example_tr": "Çevrimiçi kanalı için bir eğitim videosu kaydediyor.",
+      "related_verbs": ["film", "capture", "tape", "document", "shoot"]
+    },
+    {
+      "word": "stream",
+      "type": "verb",
+      "turkish": "Yayın akışı izlemek, canlı yayın yapmak",
+      "example_en": "Millions of people stream movies on internet platforms.",
+      "example_tr": "Milyonlarca insan internet platformlarında film akışı izliyor.",
+      "related_verbs": ["broadcast", "transmit", "cast", "play", "run"]
+    },
+    {
+      "word": "subscribe",
+      "type": "verb",
+      "turkish": "Abone olmak",
+      "example_en": "Users subscribe to channels to receive new notifications.",
+      "example_tr": "Kullanıcılar yeni bildirimler almak için kanallara abone oluyor.",
+      "related_verbs": ["register", "join", "enroll", "sign", "commit"]
+    },
+    {
+      "word": "log in",
+      "type": "verb",
+      "turkish": "Oturum açmak",
+      "example_en": "Enter your username and password to log in.",
+      "example_tr": "Oturum açmak için kullanıcı adınızı ve şifrenizi girin.",
+      "related_verbs": ["sign in", "enter", "access", "connect", "register"]
+    },
+    {
+      "word": "log out",
+      "type": "verb",
+      "turkish": "Oturumu kapatmak",
+      "example_en": "Always log out of your account on public computers.",
+      "example_tr": "Halka açık bilgisayarlarda her zaman hesabınızdan oturumu kapatın.",
+      "related_verbs": ["sign out", "exit", "disconnect", "leave", "close"]
+    },
+    {
+      "word": "reply",
+      "type": "verb",
+      "turkish": "Cevap vermek (mesaja/e-postaya)",
+      "example_en": "She replies to customer emails promptly.",
+      "example_tr": "Müşteri e-postalarına hızlı bir şekilde cevap veriyor.",
+      "related_verbs": ["answer", "respond", "react", "acknowledge", "return"]
+    },
+    {
+      "word": "forward",
+      "type": "verb",
+      "turkish": "Yönlendirmek, iletmek (mesajı)",
+      "example_en": "He forwards the important announcement to his colleagues.",
+      "example_tr": "Önemli duyuruyu iş arkadaşlarımıza iletiyor.",
+      "related_verbs": ["send", "transmit", "pass", "route", "transfer"]
+    },
+    {
+      "word": "notify",
+      "type": "verb",
+      "turkish": "Bildirim göndermek, haber vermek",
+      "example_en": "Applications notify you when a new message arrives.",
+      "example_tr": "Yeni bir mesaj geldiğinde uygulamalar size bildirim gönderir.",
+      "related_verbs": ["inform", "alert", "warn", "announce", "tell"]
+    },
+    {
+      "word": "interact",
+      "type": "verb",
+      "turkish": "Etkileşime geçmek",
+      "example_en": "Fans interact with influencers on social media platforms.",
+      "example_tr": "Hayranlar sosyal medya platformlarında fenomenlerle etkileşime geçiyor.",
+      "related_verbs": ["communicate", "engage", "connect", "mingle", "network"]
+    },
+    {
+      "word": "visualize",
+      "type": "verb",
+      "turkish": "Görüntülemek, gözünde canlandırmak",
+      "example_en": "Software tools help engineers visualize digital designs.",
+      "example_tr": "Yazılım araçları mühendislerin dijital tasarımları görüntülemesine yardımcı olur.",
+      "related_verbs": ["see", "picture", "imagine", "display", "illustrate"]
+    },
+    {
+      "word": "customize",
+      "type": "verb",
+      "turkish": "Kişiselleştirmek (ayarları)",
+      "example_en": "You can customize your phone settings easily.",
+      "example_tr": "Telefon ayarlarınızı kolayca kişiselleştirebilirsiniz.",
+      "related_verbs": ["personalize", "tailor", "adapt", "modify", "adjust"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarmak (teknolojik bir sorunu çözmeyi)",
+      "example_en": "He succeeds in fixing the printer error.",
+      "example_tr": "Yazıcı hatasını düzeltmeyi başarıyor.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Keyif almak (teknolojiden)",
+      "example_en": "We enjoy watching high-definition films online.",
+      "example_tr": "Çevrimiçi olarak yüksek çözünürlüklü filmler izlemekten keyif alıyoruz.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    },
+    {
+      "word": "value",
+      "type": "verb",
+      "turkish": "Değer vermek",
+      "example_en": "Modern workers value fast internet speed.",
+      "example_tr": "Modern çalışanlar hızlı internet hızına değer verir.",
+      "related_verbs": ["appreciate", "prize", "cherish", "esteem", "respect"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 7,
+  "scene_title": "Hobbies and Free Time",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "hobby",
+      "type": "noun",
+      "turkish": "Hobi, uğraşı",
+      "example_en": "Painting is her favorite hobby after work.",
+      "example_tr": "Resim yapmak işten sonraki en sevdiği hobisidir.",
+      "related_verbs": ["practice", "pursue", "enjoy", "love", "develop"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Keyif almak, hoşlanmak",
+      "example_en": "They enjoy listening to music in the evening.",
+      "example_tr": "Akşamları müzik dinlemekten keyif alırlar.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    },
+    {
+      "word": "relax",
+      "type": "verb",
+      "turkish": "Dinlenmek, rahatlamak",
+      "example_en": "Reading books helps him relax at the weekend.",
+      "example_tr": "Kitap okumak hafta sonu rahatlamasına yardımcı olur.",
+      "related_verbs": ["rest", "unwind", "calm", "ease", "loosen"]
+    },
+    {
+      "word": "play",
+      "type": "verb",
+      "turkish": "Oynamak (enstrüman/spor)",
+      "example_en": "He plays the guitar in a local band.",
+      "example_tr": "Yerel bir grupta gitar çalıyor.",
+      "related_verbs": ["perform", "act", "participate", "compete", "sport"]
+    },
+    {
+      "word": "paint",
+      "type": "verb",
+      "turkish": "Resim yapmak, boyamak",
+      "example_en": "She paints beautiful landscapes with watercolors.",
+      "example_tr": "Sulu boyayla güzel manzaralar resmediyor.",
+      "related_verbs": ["draw", "sketch", "color", "decorate", "illustrate"]
+    },
+    {
+      "word": "draw",
+      "type": "verb",
+      "turkish": "Çizmek",
+      "example_en": "Children love to draw cartoon characters on paper.",
+      "example_tr": "Çocuklar kağıda çizgi film karakterleri çizmeyi sever.",
+      "related_verbs": ["sketch", "design", "illustrate", "trace", "paint"]
+    },
+    {
+      "word": "cook",
+      "type": "verb",
+      "turkish": "Yemek pişirmek",
+      "example_en": "Cooking traditional dishes is his passion.",
+      "example_tr": "Geleneksel yemekler pişirmek onun tutkusudur.",
+      "related_verbs": ["bake", "prepare", "fry", "boil", "roast"]
+    },
+    {
+      "word": "bake",
+      "type": "verb",
+      "turkish": "Fırında pişirmek (kek/ekmek)",
+      "example_en": "She bakes fresh cookies for her friends.",
+      "example_tr": "Arkadaşları için taze kurabiyeler pişiriyor.",
+      "related_verbs": ["roast", "cook", "heat", "brown", "toast"]
+    },
+    {
+      "word": "garden",
+      "type": "verb",
+      "turkish": "Bahçe ile uğraşmak, bahçıvanlık yapmak",
+      "example_en": "Grandparents garden every sunny spring morning.",
+      "example_tr": "Büyükanne ve büyükbaba her güneşli ilkbahar sabahı bahçeyle uğraşır.",
+      "related_verbs": ["plant", "cultivate", "grow", "water", "tend"]
+    },
+    {
+      "word": "photograph",
+      "type": "verb",
+      "turkish": "Fotoğraf çekmek",
+      "example_en": "He photographs wild birds in the national park.",
+      "example_tr": "Milli parkta vahşi kuşların fotoğrafını çekiyor.",
+      "related_verbs": ["snap", "shoot", "capture", "film", "record"]
+    },
+    {
+      "word": "collect",
+      "type": "verb",
+      "turkish": "Koleksiyon yapmak, toplamak",
+      "example_en": "My brother collects vintage stamps from different countries.",
+      "example_tr": "Erkek kardeşim farklı ülkelerden nostaljik pul koleksiyonu yapıyor.",
+      "related_verbs": ["gather", "accumulate", "assemble", "store", "save"]
+    },
+    {
+      "word": "travel",
+      "type": "verb",
+      "turkish": "Seyahat etmek (hobi olarak)",
+      "example_en": "They travel to historical towns during holidays.",
+      "example_tr": "Tatillerde tarihi kasabalara seyahat ediyorlar.",
+      "related_verbs": ["journey", "trip", "tour", "visit", "explore"]
+    },
+    {
+      "word": "explore",
+      "type": "verb",
+      "turkish": "Keşfetmek",
+      "example_en": "Hikers explore new nature trails on Saturdays.",
+      "example_tr": "Doğa yürüyüşü yapanlar cumartesileri yeni doğa patikalarını keşfediyor.",
+      "related_verbs": ["discover", "investigate", "inspect", "search", "examine"]
+    },
+    {
+      "word": "camp",
+      "type": "verb",
+      "turkish": "Kamp yapmak",
+      "example_en": "Friends camp near the lake in summer.",
+      "example_tr": "Arkadaşlar yazın göl kenarında kamp yapıyor.",
+      "related_verbs": ["pitch", "lodge", "stay", "reside", "dwell"]
+    },
+    {
+      "word": "fish",
+      "type": "verb",
+      "turkish": "Balık tutmak",
+      "example_en": "He fishes quietly by the riverbank.",
+      "example_tr": "Nehir kıyısında sessizce balık tutuyor.",
+      "related_verbs": ["angle", "catch", "hunt", "seek", "net"]
+    },
+    {
+      "word": "dance",
+      "type": "verb",
+      "turkish": "Dans etmek",
+      "example_en": "Couples dance to Latin music at the club.",
+      "example_tr": "Çiftler kulüpte Latin müziği eşliğinde dans ediyor.",
+      "related_verbs": ["move", "leap", "spin", "step", "swing"]
+    },
+    {
+      "word": "sing",
+      "type": "verb",
+      "turkish": "Şarkı söylemek",
+      "example_en": "She sings songs in the school choir.",
+      "example_tr": "Okul korosunda şarkılar söylüyor.",
+      "related_verbs": ["chant", "hum", "carol", "perform", "voice"]
+    },
+    {
+      "word": "listen",
+      "type": "verb",
+      "turkish": "Dinlemek (müzik/radyo)",
+      "example_en": "Teenagers listen to pop music on their headphones.",
+      "example_tr": "Gençler kulaklıklarıyla pop müzik dinliyor.",
+      "related_verbs": ["hear", "attend", "heed", "monitor", "receive"]
+    },
+    {
+      "word": "watch",
+      "type": "verb",
+      "turkish": "İzlemek (film/maç)",
+      "example_en": "Football fans watch matches on television.",
+      "example_tr": "Futbol taraftarları televizyonda maç izliyor.",
+      "related_verbs": ["observe", "view", "see", "gaze", "look"]
+    },
+    {
+      "word": "read",
+      "type": "verb",
+      "turkish": "Okumak (kitap/dergi)",
+      "example_en": "Grandpa reads historical novels before sleeping.",
+      "example_tr": "Büyükbaba uyumadan önce tarihi romanlar okur.",
+      "related_verbs": ["study", "peruse", "scan", "browse", "review"]
+    },
+    {
+      "word": "write",
+      "type": "verb",
+      "turkish": "Yazmak (hikaye/günlük)",
+      "example_en": "She writes short stories in her notebook.",
+      "example_tr": "Defterine kısa hikayeler yazıyor.",
+      "related_verbs": ["author", "compose", "draft", "note", "record"]
+    },
+    {
+      "word": "exercise",
+      "type": "verb",
+      "turkish": "Egzersiz yapmak, spor yapmak",
+      "example_en": "Many people exercise at the local gym.",
+      "example_tr": "Birçok insan yerel spor salonunda egzersiz yapıyor.",
+      "related_verbs": ["train", "workout", "practice", "drill", "sport"]
+    },
+    {
+      "word": "swim",
+      "type": "verb",
+      "turkish": "Yüzmek",
+      "example_en": "Kids swim in the indoor pool during winter.",
+      "example_tr": "Çocuklar kışın kapalı havuzda yüzüyor.",
+      "related_verbs": ["float", "dive", "paddle", "splash", "stroke"]
+    },
+    {
+      "word": "run",
+      "type": "verb",
+      "turkish": "Koşmak (jogging yapmak)",
+      "example_en": "He runs five kilometers every morning.",
+      "example_tr": "Her sabah beş kilometre koşuyor.",
+      "related_verbs": ["jog", "sprint", "dash", "race", "gallop"]
+    },
+    {
+      "word": "cycle",
+      "type": "verb",
+      "turkish": "Bisiklete binmek",
+      "example_en": "Students cycle to campus along bicycle lanes.",
+      "example_tr": "Öğrenciler bisiklet yolları boyunca kampüse bisikletle gidiyor.",
+      "related_verbs": ["ride", "pedal", "travel", "move", "roll"]
+    },
+    {
+      "word": "skate",
+      "type": "verb",
+      "turkish": "Paten kaymak",
+      "example_en": "Teenagers skate in the city park.",
+      "example_tr": "Gençler şehir parkında paten kayıyor.",
+      "related_verbs": ["glide", "slide", "slip", "skid", "roll"]
+    },
+    {
+      "word": "ski",
+      "type": "verb",
+      "turkish": "Kayak yapmak",
+      "example_en": "Tourists ski on snowy mountain slopes.",
+      "example_tr": "Turistler karlı dağ yamaçlarında kayak yapıyor.",
+      "related_verbs": ["glide", "slide", "snowboard", "slide", "move"]
+    },
+    {
+      "word": "surf",
+      "type": "verb",
+      "turkish": "Sörf yapmak",
+      "example_en": "Athletes surf ocean waves during summer.",
+      "example_tr": "Sporcular yaz aylarında okyanus dalgalarında sörf yapıyor.",
+      "related_verbs": ["ride", "sail", "float", "glide", "browse"]
+    },
+    {
+      "word": "play",
+      "type": "verb",
+      "turkish": "Oynamak (video oyunu / masa oyunu)",
+      "example_en": "Friends play board games on rainy weekends.",
+      "example_tr": "Arkadaşlar yağmurlu hafta sonlarında kutu oyunları oynuyor.",
+      "related_verbs": ["participate", "compete", "game", "match", "contest"]
+    },
+    {
+      "word": "meet",
+      "type": "verb",
+      "turkish": "Buluşmak, tanışmak",
+      "example_en": "People meet friends at cafes in the afternoon.",
+      "example_tr": "İnsanlar öğleden sonra kafelerde arkadaşlarıyla buluşuyor.",
+      "related_verbs": ["gather", "assemble", "unite", "encounter", "join"]
+    },
+    {
+      "word": "socialize",
+      "type": "verb",
+      "turkish": "Sosyalleşmek",
+      "example_en": "Club members socialize after meetings.",
+      "example_tr": "Kulüp üyeleri toplantılardan sonra sosyalleşiyor.",
+      "related_verbs": ["mix", "mingle", "interact", "network", "visit"]
+    },
+    {
+      "word": "chat",
+      "type": "verb",
+      "turkish": "Sohbet etmek",
+      "example_en": "Neighbors chat across the garden fence.",
+      "example_tr": "Komşular bahçe çitinin üzerinden sohbet ediyor.",
+      "related_verbs": ["converse", "talk", "speak", "communicate", "discuss"]
+    },
+    {
+      "word": "visit",
+      "type": "verb",
+      "turkish": "Ziyaret etmek (akraba/arkadaş)",
+      "example_en": "We visit our grandparents on Sundays.",
+      "example_tr": "Pazar günleri büyükanne ve büyükbabamızı ziyaret ediyoruz.",
+      "related_verbs": ["see", "attend", "call", "tour", "frequent"]
+    },
+    {
+      "word": "host",
+      "type": "verb",
+      "turkish": "Ev sahipliği yapmak (parti/davet)",
+      "example_en": "They host a barbecue party for neighbors.",
+      "example_tr": "Komşular için bir mangal partisine ev sahipliği yapıyorlar.",
+      "related_verbs": ["entertain", "receive", "welcome", "organize", "hold"]
+    },
+    {
+      "word": "celebrate",
+      "type": "verb",
+      "turkish": "Kutlamak",
+      "example_en": "Families celebrate birthdays with cake and music.",
+      "example_tr": "Aileler doğum günlerini pasta ve müzikle kutlar.",
+      "related_verbs": ["observe", "commemorate", "rejoice", "party", "salute"]
+    },
+    {
+      "word": "relax",
+      "type": "verb",
+      "turkish": "Dinlenmek, keyif çatmak",
+      "example_en": "She relaxes on the sofa with a cup of tea.",
+      "example_tr": "Bir fincan çayla kanepede dinleniyor.",
+      "related_verbs": ["rest", "unwind", "calm", "ease", "loosen"]
+    },
+    {
+      "word": "spend",
+      "type": "verb",
+      "turkish": "Vakit geçirmek",
+      "example_en": "We spend free time walking in nature.",
+      "example_tr": "Boş zamanımızı doğada yürüyüş yaparak geçiriyoruz.",
+      "related_verbs": ["pass", "utilize", "invest", "occupy", "waste"]
+    },
+    {
+      "word": "volunteer",
+      "type": "verb",
+      "turkish": "Gönüllü olmak",
+      "example_en": "Students volunteer at animal shelters on weekends.",
+      "example_tr": "Öğrenciler hafta sonları hayvan barınaklarında gönüllü oluyor.",
+      "related_verbs": ["offer", "assist", "help", "contribute", "participate"]
+    },
+    {
+      "word": "participate",
+      "type": "verb",
+      "turkish": "Katılmak (etkinliğe/kulübe)",
+      "example_en": "Many citizens participate in community art workshops.",
+      "example_tr": "Birçok vatandaş topluluk sanat atölyelerine katılıyor.",
+      "related_verbs": ["join", "attend", "engage", "share", "enter"]
+    },
+    {
+      "word": "practice",
+      "type": "verb",
+      "turkish": "Pratik yapmak, alıştırma yapmak",
+      "example_en": "Musicians practice their instruments daily.",
+      "example_tr": "Müzisyenler her gün enstrümanlarının pratiğini yapıyor.",
+      "related_verbs": ["exercise", "rehearse", "train", "drill", "study"]
+    },
+    {
+      "word": "perform",
+      "type": "verb",
+      "turkish": "Sahnelemek, icra etmek",
+      "example_en": "Actors perform plays in the local theatre.",
+      "example_tr": "Oyuncular yerel tiyatroda oyunlar sahneliyor.",
+      "related_verbs": ["execute", "act", "play", "do", "fulfill"]
+    },
+    {
+      "word": "act",
+      "type": "verb",
+      "turkish": "Oynamak (tiyatroda)",
+      "example_en": "She acts in comedy dramas with friends.",
+      "example_tr": "Arkadaşlarıyla komedi dramalarında oynuyor.",
+      "related_verbs": ["perform", "play", "pretend", "behave", "function"]
+    },
+    {
+      "word": "sew",
+      "type": "verb",
+      "turkish": "Dikiş dikmek",
+      "example_en": "Grandmother sews winter clothes by hand.",
+      "example_tr": "Büyükanne elleriyle kışlık kıyafetler dikiyor.",
+      "related_verbs": ["stitch", "mend", "repair", "tailor", "needle"]
+    },
+    {
+      "word": "knit",
+      "type": "verb",
+      "turkish": "Örgü örmek",
+      "example_en": "People knit colorful scarves for cold weather.",
+      "example_tr": "İnsanlar soğuk hava için rengarenk atkılar örüyor.",
+      "related_verbs": ["weave", "stitch", "knit", "interlace", "construct"]
+    },
+    {
+      "word": "build",
+      "type": "verb",
+      "turkish": "İnşa etmek, model yapmak",
+      "example_en": "He builds wooden model ships as a hobby.",
+      "example_tr": "Hobi olarak ahşap gemi maketleri inşa ediyor.",
+      "related_verbs": ["construct", "create", "make", "assemble", "form"]
+    },
+    {
+      "word": "fix",
+      "type": "verb",
+      "turkish": "Tamir etmek (eşyayı/bisikleti)",
+      "example_en": "Dad fixes broken bicycles in the garage.",
+      "example_tr": "Baba garajda bozuk bisikletleri tamir ediyor.",
+      "related_verbs": ["repair", "mend", "solve", "adjust", "correct"]
+    },
+    {
+      "word": "collect",
+      "type": "verb",
+      "turkish": "Toplamak (yaprak/taş)",
+      "example_en": "Children collect colorful autumn leaves in the park.",
+      "example_tr": "Çocuklar parkta rengarenk sonbahar yaprakları topluyor.",
+      "related_verbs": ["gather", "accumulate", "assemble", "store", "save"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarmak (hobi hedefine ulaşmak)",
+      "example_en": "She succeeds in finishing her painting exhibition.",
+      "example_tr": "Resim sergisini bitirmeyi başarıyor.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Zevk almak",
+      "example_en": "We always enjoy peaceful weekends in nature.",
+      "example_tr": "Doğada huzurlu hafta sonlarının tadını her zaman çıkarırız.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    },
+    {
+      "word": "value",
+      "type": "verb",
+      "turkish": "Değer vermek",
+      "example_en": "Free time is something we value deeply.",
+      "example_tr": "Boş zaman, derinden değer verdiğimiz bir şeydir.",
+      "related_verbs": ["appreciate", "prize", "cherish", "esteem", "respect"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 6,
+  "scene_title": "Health and Body",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "feel",
+      "type": "verb",
+      "turkish": "Hissetmek",
+      "example_en": "I feel sick and tired today.",
+      "example_tr": "Bugün hasta ve yorgun hissediyorum.",
+      "related_verbs": ["experience", "sense", "perceive", "detect", "touch"]
+    },
+    {
+      "word": "hurt",
+      "type": "verb",
+      "turkish": "Acımak, ağrımak, incitmek",
+      "example_en": "My head hurts because of the loud noise.",
+      "example_tr": "Yüksek sesten ötürü başım ağrıyor.",
+      "related_verbs": ["ache", "pain", "injure", "harm", "damage"]
+    },
+    {
+      "word": "ache",
+      "type": "verb",
+      "turkish": "Sızlamak, hafif ağrımak",
+      "example_en": "His muscles ache after long hours of exercise.",
+      "example_tr": "Uzun süreli egzersizden sonra kasları sızlıyor.",
+      "related_verbs": ["hurt", "throb", "smart", "sting", "pain"]
+    },
+    {
+      "word": "sick",
+      "type": "verb/adj",
+      "turkish": "Hasta olmak",
+      "example_en": "Many people get sick during the winter season.",
+      "example_tr": "Kış mevsiminde birçok insan hastalanır.",
+      "related_verbs": ["ill", "ailing", "nauseous", "unwell", "weak"]
+    },
+    {
+      "word": "recover",
+      "type": "verb",
+      "turkish": "İyileşmek, sağlığına kavuşmak",
+      "example_en": "She recovers quickly after taking the medicine.",
+      "example_tr": "İlacı aldıktan sonra hızlıca iyileşiyor.",
+      "related_verbs": ["heal", "improve", "cure", "mend", "restore"]
+    },
+    {
+      "word": "heal",
+      "type": "verb",
+      "turkish": "İyileşmek, yaranın kapanması",
+      "example_en": "The small cut on his hand heals in a few days.",
+      "example_tr": "Elindeki küçük kesik birkaç günde iyileşiyor.",
+      "related_verbs": ["recover", "cure", "repair", "fix", "patch"]
+    },
+    {
+      "word": "rest",
+      "type": "verb",
+      "turkish": "Dinlenmek",
+      "example_en": "The doctor advises him to rest at home for two days.",
+      "example_tr": "Doktor ona evde iki gün dinlenmesini tavsiye ediyor.",
+      "related_verbs": ["relax", "unwind", "pause", "sleep", "repose"]
+    },
+    {
+      "word": "examine",
+      "type": "verb",
+      "turkish": "Muayene etmek, incelemek",
+      "example_en": "The physician examines the patient carefully.",
+      "example_tr": "Doktor hastayı dikkatlice muayene ediyor.",
+      "related_verbs": ["inspect", "check", "study", "analyze", "explore"]
+    },
+    {
+      "word": "prescribe",
+      "type": "verb",
+      "turkish": "Reçete yazmak",
+      "example_en": "Doctors prescribe antibiotics for bacterial infections.",
+      "example_tr": "Doktorlar bakteriyel enfeksiyonlar için antibiyotik reçete eder.",
+      "related_verbs": ["order", "assign", "recommend", "direct", "dictate"]
+    },
+    {
+      "word": "treat",
+      "type": "verb",
+      "turkish": "Tedavi etmek",
+      "example_en": "Specialists treat patients with modern medical methods.",
+      "example_tr": "Uzmanlar hastaları modern tıbbi yöntemlerle tedavi ediyor.",
+      "related_verbs": ["cure", "heal", "handle", "manage", "address"]
+    },
+    {
+      "word": "cough",
+      "type": "verb",
+      "turkish": "Öksürmek",
+      "example_en": "He coughs frequently because of a cold.",
+      "example_tr": "Soğuk algınlığı yüzünden sık sık öksürüyor.",
+      "related_verbs": ["choke", "clear", "hawk", "spit", "wheeze"]
+    },
+    {
+      "word": "sneeze",
+      "type": "verb",
+      "turkish": "Hapşırmak",
+      "example_en": "Spring allergies make people sneeze outdoors.",
+      "example_tr": "Bahar alerjileri insanların dışarıda hapşırmasına neden olur.",
+      "related_verbs": ["snort", "sniff", "blow", "gasp", "pant"]
+    },
+    {
+      "word": "breathe",
+      "type": "verb",
+      "turkish": "Nefes almak",
+      "example_en": "Fresh mountain air helps you breathe deeply.",
+      "example_tr": "Taze dağ havası derin nefes almanıza yardımcı olur.",
+      "related_verbs": ["inhale", "exhale", "respire", "sigh", "pant"]
+    },
+    {
+      "word": "exercise",
+      "type": "verb",
+      "turkish": "Egzersiz yapmak, spor yapmak",
+      "example_en": "Regular physical activity keeps your body healthy.",
+      "example_tr": "Düzenli fiziksel aktivite vücudunuzu sağlıklı tutar.",
+      "related_verbs": ["train", "workout", "practice", "drill", "exercise"]
+    },
+    {
+      "word": "relax",
+      "type": "verb",
+      "turkish": "Rahatlamak, gevşemek",
+      "example_en": "Yoga helps people relax their tense muscles.",
+      "example_tr": "Yoga, insanların gergin kaslarını gevşetmesine yardımcı olur.",
+      "related_verbs": ["rest", "calm", "ease", "unwind", "soften"]
+    },
+    {
+      "word": "sleep",
+      "type": "verb",
+      "turkish": "Uyumak",
+      "example_en": "Adults need to sleep at least seven hours a night.",
+      "example_tr": "Yetişkinlerin gecede en az yedi saat uyuması gerekir.",
+      "related_verbs": ["slumber", "nap", "doze", "rest", "snooze"]
+    },
+    {
+      "word": "eat",
+      "type": "verb",
+      "turkish": "Yemek yemek (sağlıklı beslenmek)",
+      "example_en": "Eating nutritious food supports physical development.",
+      "example_tr": "Besleyici yiyecekler yemek fiziksel gelişimi destekler.",
+      "related_verbs": ["consume", "feed", "digest", "dine", "snack"]
+    },
+    {
+      "word": "drink",
+      "type": "verb",
+      "turkish": "İçmek (su/bitki çayı)",
+      "example_en": "Drink plenty of water when you have a fever.",
+      "example_tr": "Ateşiniz olduğunda bol bol su için.",
+      "related_verbs": ["sip", "gulp", "swallow", "consume", "hydrate"]
+    },
+    {
+      "word": "sweat",
+      "type": "verb",
+      "turkish": "Terlemek",
+      "example_en": "You sweat during intense physical training.",
+      "example_tr": "Yoğun fiziksel antrenman sırasında terlersiniz.",
+      "related_verbs": ["perspire", "glow", "drip", "leak", "secrete"]
+    },
+    {
+      "word": "bleed",
+      "type": "verb",
+      "turkish": "Kanamak",
+      "example_en": "The small scratch on his knee begins to bleed.",
+      "example_tr": "Dizindeki küçük sıyrık kanamaya başlıyor.",
+      "related_verbs": ["flow", "leak", "seep", "drip", "ooze"]
+    },
+    {
+      "word": "swallow",
+      "type": "verb",
+      "turkish": "Yutmak",
+      "example_en": "It is difficult to swallow food with a sore throat.",
+      "example_tr": "Boğaz ağrısı ile yiyecekleri yutmak zordur.",
+      "related_verbs": ["gulp", "consume", "down", "ingest", "drink"]
+    },
+    {
+      "word": "weigh",
+      "type": "verb",
+      "turkish": "Tartmak, ağırlığında olmak",
+      "example_en": "Patients weigh themselves at the clinic check-up.",
+      "example_tr": "Hastalar klinik kontrolünde tartılır.",
+      "related_verbs": ["measure", "balance", "heavy", "evaluate", "assess"]
+    },
+    {
+      "word": "lose",
+      "type": "verb",
+      "turkish": "Kilo vermek (kaybetmek)",
+      "example_en": "She wants to lose weight through a balanced diet.",
+      "example_tr": "Dengeli bir diyetle kilo vermek istiyor.",
+      "related_verbs": ["drop", "shed", "misplace", "forfeit", "fail"]
+    },
+    {
+      "word": "gain",
+      "type": "verb",
+      "turkish": "Kilo almak (kazanmak)",
+      "example_en": "People might gain weight if they eat too much sugar.",
+      "example_tr": "Çok fazla şeker yerlerse insanlar kilo alabilir.",
+      "related_verbs": ["acquire", "earn", "obtain", "increase", "add"]
+    },
+    {
+      "word": "protect",
+      "type": "verb",
+      "turkish": "Korumak",
+      "example_en": "Warm clothes protect you against cold weather.",
+      "example_tr": "Kalın giysiler sizi soğuk havaya karşı korur.",
+      "related_verbs": ["guard", "defend", "shield", "secure", "preserve"]
+    },
+    {
+      "word": "prevent",
+      "type": "verb",
+      "turkish": "Önlemek, engellemek",
+      "example_en": "Vaccines prevent serious infectious diseases.",
+      "example_tr": "Aşılar ciddi bulaşıcı hastalıkları önler.",
+      "related_verbs": ["stop", "avoid", "block", "deter", "preclude"]
+    },
+    {
+      "word": "infect",
+      "type": "verb",
+      "turkish": "Enfekte etmek, bulaştırmak",
+      "example_en": "Dirty hands can infect wounds easily.",
+      "example_tr": "Kirli eller yaraları kolayca enfekte edebilir.",
+      "related_verbs": ["contaminate", "pollute", "taint", "spoil", "affect"]
+    },
+    {
+      "word": "hurt",
+      "type": "verb",
+      "turkish": "İncitmek, zarar vermek",
+      "example_en": "Be careful not to hurt your back while lifting heavy boxes.",
+      "example_tr": "Ağır kutular kaldırırken sırtını incitmemeye dikkat et.",
+      "related_verbs": ["harm", "damage", "injure", "pain", "ache"]
+    },
+    {
+      "word": "injure",
+      "type": "verb",
+      "turkish": "Yaralanmak, sakatlanmak",
+      "example_en": "The player injures his leg during the football match.",
+      "example_tr": "Futbolcu maç sırasında bacağını sakatlıyor.",
+      "related_verbs": ["hurt", "damage", "wound", "harm", "break"]
+    },
+    {
+      "word": "break",
+      "type": "verb",
+      "turkish": "Kırmak (kemik)",
+      "example_en": "He falls off his bicycle and breaks his arm.",
+      "example_tr": "Bisikletinden düşüp kolunu kırıyor.",
+      "related_verbs": ["fracture", "crack", "shatter", "snap", "split"]
+    },
+    {
+      "word": "sprain",
+      "type": "verb",
+      "turkish": "Burkmak, incitmek (bilek)",
+      "example_en": "She sprains her ankle while running in the park.",
+      "example_tr": "Parkta koşarken ayak bileğini burkuyor.",
+      "related_verbs": ["twist", "strain", "wrench", "pull", "damage"]
+    },
+    {
+      "word": "burn",
+      "type": "verb",
+      "turkish": "Yakmak, yanmak",
+      "example_en": "Be careful with hot water so you do not burn your skin.",
+      "example_tr": "Cildini yakmamak için sıcak suya dikkat et.",
+      "related_verbs": ["scald", "singe", "char", "flame", "heat"]
+    },
+    {
+      "word": "faint",
+      "type": "verb",
+      "turkish": "Bayılmak",
+      "example_en": "Some people faint when they see blood.",
+      "example_tr": "Bazı insanlar kan gördüklerinde bayılır.",
+      "related_verbs": ["collapse", "blackout", "swoon", "pass out", "droop"]
+    },
+    {
+      "word": "vomit",
+      "type": "verb",
+      "turkish": "Kusmak",
+      "example_en": "Food poisoning makes him vomit all night.",
+      "example_tr": "Gıda zehirlenmesi bütün gece kusmasına neden oluyor.",
+      "related_verbs": ["throw up", "puke", "regurgitate", "gag", "sick"]
+    },
+    {
+      "word": "improve",
+      "type": "verb",
+      "turkish": "Gelişmek, iyileşmek",
+      "example_en": "Patient health conditions improve after surgery.",
+      "example_tr": "Ameliyattan sonra hastanın sağlık durumu iyileşiyor.",
+      "related_verbs": ["better", "enhance", "upgrade", "progress", "develop"]
+    },
+    {
+      "word": "worsen",
+      "type": "verb",
+      "turkish": "Kötüleşmek",
+      "example_en": "Symptoms worsen if you ignore medical advice.",
+      "example_tr": "Tıbbi tavsiyeleri göz ardı ederseniz belirtiler kötüleşir.",
+      "related_verbs": ["deteriorate", "aggravate", "decline", "fade", "slip"]
+    },
+    {
+      "word": "consult",
+      "type": "verb",
+      "turkish": "Danışmak (doktora)",
+      "example_en": "Always consult a doctor before starting a new diet.",
+      "example_tr": "Yeni bir diyete başlamadan önce her zaman bir doktora danışın.",
+      "related_verbs": ["advising", "confer", "discuss", "refer", "ask"]
+    },
+    {
+      "word": "visit",
+      "type": "verb",
+      "turkish": "Ziyaret etmek (doktora/hastaneye gitmek)",
+      "example_en": "We visit the dentist for a routine check-up.",
+      "example_tr": "Rutin bir kontrol için diş hekimini ziyaret ediyoruz.",
+      "related_verbs": ["see", "attend", "meet", "call", "tour"]
+    },
+    {
+      "word": "check",
+      "type": "verb",
+      "turkish": "Kontrol etmek (tansiyonu/nabzı)",
+      "example_en": "The nurse checks the patient's blood pressure.",
+      "example_tr": "Hemşire hastanın tansiyonunu kontrol ediyor.",
+      "related_verbs": ["inspect", "examine", "monitor", "test", "verify"]
+    },
+    {
+      "word": "measure",
+      "type": "verb",
+      "turkish": "Ölçmek (ateşi)",
+      "example_en": "Parents measure their child's temperature with a thermometer.",
+      "example_tr": "Ebeveynler çocuklarının ateşini bir derece ile ölçer.",
+      "related_verbs": ["gauge", "calculate", "assess", "evaluate", "quantify"]
+    },
+    {
+      "word": "swelling",
+      "type": "verb/noun",
+      "turkish": "Şişmek",
+      "example_en": "Ice packs reduce swelling on injured joints.",
+      "example_tr": "Buz aküleri yaralı eklemlerdeki şişliği azaltır.",
+      "related_verbs": ["inflate", "expand", "balloon", "bulge", "enlarge"]
+    },
+    {
+      "word": "relieve",
+      "type": "verb",
+      "turkish": "Hafifletmek, dindirmek (ağrıyı)",
+      "example_en": "Painkillers relieve headaches very effectively.",
+      "example_tr": "Ağrı kesiciler baş ağrısını çok etkili bir şekilde dindirir.",
+      "related_verbs": ["ease", "soothe", "alleviate", "mitigate", "comfort"]
+    },
+    {
+      "word": "suffer",
+      "type": "verb",
+      "turkish": "Acı çekmek",
+      "example_en": "Many elderly people suffer from joint pain.",
+      "example_tr": "Birçok yaşlı insan eklem ağrısından muzdariptir (acı çeker).",
+      "related_verbs": ["endure", "experience", "bear", "undergo", "tolerate"]
+    },
+    {
+      "word": "survive",
+      "type": "verb",
+      "turkish": "Hayatta kalmak",
+      "example_en": "Modern medicine helps people survive serious illnesses.",
+      "example_tr": "Modern tıp insanların ciddi hastalıkları atlatmasına (hayatta kalmasına) yardımcı olur.",
+      "related_verbs": ["outlive", "endure", "persist", "last", "remain"]
+    },
+    {
+      "word": "diagnose",
+      "type": "verb",
+      "turkish": "Teşhis etmek",
+      "example_en": "The specialist diagnoses the illness accurately.",
+      "example_tr": "Uzman hastalığı doğru bir şekilde teşhis ediyor.",
+      "related_verbs": ["identify", "detect", "determine", "recognize", "analyze"]
+    },
+    {
+      "word": "cure",
+      "type": "verb",
+      "turkish": "Tedavi edip iyileştirmek",
+      "example_en": "Scientists work hard to find cures for complex diseases.",
+      "example_tr": "Bilim insanları karmaşık hastalıklara çareler bulmak için çok çalışıyor.",
+      "related_verbs": ["heal", "treat", "fix", "remedy", "restore"]
+    },
+    {
+      "word": "relax",
+      "type": "verb",
+      "turkish": "Rahatlamak, sakinleşmek",
+      "example_en": "Deep breathing helps patients relax during treatment.",
+      "example_tr": "Derin nefes almak, hastaların tedavi sırasında rahatlamasına yardımcı olur.",
+      "related_verbs": ["rest", "calm", "ease", "unwind", "soften"]
+    },
+    {
+      "word": "stay",
+      "type": "verb",
+      "turkish": "Kalmak (sağlıklı kalmak)",
+      "example_en": "Eat healthy food and exercise to stay fit.",
+      "example_tr": "Formda kalmak için sağlıklı yiyecekler ye ve egzersiz yap.",
+      "related_verbs": ["remain", "dwell", "reside", "keep", "wait"]
+    },
+    {
+      "word": "avoid",
+      "type": "verb",
+      "turkish": "Kaçınmak (zararlı şeylerden)",
+      "example_en": "Avoid smoking and junk food for a healthy lifestyle.",
+      "example_tr": "Sağlıklı bir yaşam tarzı için sigaradan ve zararlı yiyeceklerden kaçının.",
+      "related_verbs": ["shun", "evade", "escape", "prevent", "bypass"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarmak (sağlıklı yaşama hedefine ulaşmak)",
+      "example_en": "She succeeds in quitting smoking after years of effort.",
+      "example_tr": "Yıllar süren çabanın ardından sigarayı bırakmayı başarıyor.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 5,
+  "scene_title": "Shopping and Money",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "shop",
+      "type": "verb",
+      "turkish": "Alışveriş yapmak",
+      "example_en": "Customers shop for clothes in the local mall.",
+      "example_tr": "Müşteriler yerel alışveriş merkezinde kıyafet alışverişi yapıyor.",
+      "related_verbs": ["purchase", "buy", "browse", "market", "acquire"]
+    },
+    {
+      "word": "buy",
+      "type": "verb",
+      "turkish": "Satın almak",
+      "example_en": "She buys fresh fruit and vegetables at the market.",
+      "example_tr": "Pazardan taze meyve ve sebze satın alıyor.",
+      "related_verbs": ["purchase", "acquire", "obtain", "procure", "shop"]
+    },
+    {
+      "word": "purchase",
+      "type": "verb",
+      "turkish": "Satın almak (resmi/yaygın)",
+      "example_en": "He purchases a new smartphone online.",
+      "example_tr": "Çevrimiçi olarak yeni bir akıllı telefon satın alıyor.",
+      "related_verbs": ["buy", "acquire", "obtain", "procure", "secure"]
+    },
+    {
+      "word": "pay",
+      "type": "verb",
+      "turkish": "Ödeme yapmak",
+      "example_en": "Shoppers pay with credit cards or cash.",
+      "example_tr": "Alışveriş yapanlar kredi kartı veya nakit ile ödeme yapıyor.",
+      "related_verbs": ["settle", "compensate", "remit", "disburse", "clear"]
+    },
+    {
+      "word": "cost",
+      "type": "verb",
+      "turkish": "Mal olmak, fiyatı olmak",
+      "example_en": "How much does this winter jacket cost?",
+      "example_tr": "Bu kışlık montun fiyatı ne kadar? (Kaça mal oluyor?)",
+      "related_verbs": ["price", "charge", "value", "require", "demand"]
+    },
+    {
+      "word": "spend",
+      "type": "verb",
+      "turkish": "Para harcamak",
+      "example_en": "People spend a lot of money during holiday sales.",
+      "example_tr": "İnsanlar tatil indirimleri sırasında çok para harcıyor.",
+      "related_verbs": ["expend", "pay", "consume", "waste", "invest"]
+    },
+    {
+      "word": "save",
+      "type": "verb",
+      "turkish": "Para biriktirmek / Tasarruf etmek",
+      "example_en": "She saves money every month to buy a car.",
+      "example_tr": "Araba almak için her ay para biriktiriyor.",
+      "related_verbs": ["accumulate", "collect", "reserve", "store", "economize"]
+    },
+    {
+      "word": "earn",
+      "type": "verb",
+      "turkish": "Kazanmak (para)",
+      "example_en": "Workers earn wages for their hard work.",
+      "example_tr": "İşçiler sıkı çalışmaları karşılığında ücret kazanır.",
+      "related_verbs": ["gain", "make", "win", "acquire", "secure"]
+    },
+    {
+      "word": "borrow",
+      "type": "verb",
+      "turkish": "Ödünç almak",
+      "example_en": "Can I borrow some money from you until tomorrow?",
+      "example_tr": "Yarına kadar senden biraz para ödünç alabilir miyim?",
+      "related_verbs": ["take", "lease", "rent", "adopt", "receive"]
+    },
+    {
+      "word": "lend",
+      "type": "verb",
+      "turkish": "Ödünç vermek",
+      "example_en": "Banks lend money to people who want to buy houses.",
+      "example_tr": "Bankalar ev almak isteyen insanlara para ödünç verir.",
+      "related_verbs": ["loan", "advance", "provide", "grant", "extend"]
+    },
+    {
+      "word": "afford",
+      "type": "verb",
+      "turkish": "Gücü yetmek (maddi olarak)",
+      "example_en": "I cannot afford such an expensive watch right now.",
+      "example_tr": "Şu anda böylesine pahalı bir saate gücüm yetmez.",
+      "related_verbs": ["manage", "spare", "support", "bear", "allow"]
+    },
+    {
+      "word": "charge",
+      "type": "verb",
+      "turkish": "Ücret talep etmek, fiyat biçmek",
+      "example_en": "Stores charge extra fees for home delivery.",
+      "example_tr": "Mağazalar eve teslimat için ek ücret talep ediyor.",
+      "related_verbs": ["bill", "price", "demand", "cost", "impose"]
+    },
+    {
+      "word": "discount",
+      "type": "verb",
+      "turkish": "İndirim yapmak",
+      "example_en": "Supermarkets discount items that are close to expiration.",
+      "example_tr": "Süpermarketler son kullanma tarihi yaklaşan ürünlerde indirim yapar.",
+      "related_verbs": ["reduce", "lower", "cut", "decrease", "deduct"]
+    },
+    {
+      "word": "exchange",
+      "type": "verb",
+      "turkish": "Değiştirmek (ürünü iade edip başka almak)",
+      "example_en": "You can exchange the shirt if it is too small.",
+      "example_tr": "Gömlek çok küçükse değiştirebilirsin.",
+      "related_verbs": ["swap", "switch", "replace", "trade", "convert"]
+    },
+    {
+      "word": "return",
+      "type": "verb",
+      "turkish": "İade etmek (mağazaya)",
+      "example_en": "She returns the broken item to the customer service.",
+      "example_tr": "Bozuk ürünü müşteri hizmetlerine iade ediyor.",
+      "related_verbs": ["refund", "restore", "give back", "repay", "send back"]
+    },
+    {
+      "word": "refund",
+      "type": "verb",
+      "turkish": "Para iadesi yapmak",
+      "example_en": "The cashier refunds money for returned goods.",
+      "example_tr": "Kasiyer iade edilen mallar için para iadesi yapar.",
+      "related_verbs": ["repay", "return", "reimburse", "compensate", "pay back"]
+    },
+    {
+      "word": "browse",
+      "type": "verb",
+      "turkish": "Göz atmak, vitrin gezinmek",
+      "example_en": "Customers browse through shop windows.",
+      "example_tr": "Müşteriler mağaza vitrinlerine göz atıyor.",
+      "related_verbs": ["scan", "look", "survey", "peruse", "examine"]
+    },
+    {
+      "word": "choose",
+      "type": "verb",
+      "turkish": "Seçmek",
+      "example_en": "He chooses a blue shirt among many options.",
+      "example_tr": "Birçok seçenek arasından mavi bir gömlek seçiyor.",
+      "related_verbs": ["select", "pick", "opt", "decide", "prefer"]
+    },
+    {
+      "word": "select",
+      "type": "verb",
+      "turkish": "Seçmek, ayıklamak",
+      "example_en": "Shoppers select the best products on the shelf.",
+      "example_tr": "Alışveriş yapanlar raf üzerindeki en iyi ürünleri seçer.",
+      "related_verbs": ["choose", "pick", "opt", "filter", "sort"]
+    },
+    {
+      "word": "try on",
+      "type": "verb",
+      "turkish": "Kıyafet denemek (giyinme kabininde)",
+      "example_en": "She tries on dresses in the fitting room.",
+      "example_tr": "Giyinme kabininde elbiseleri deniyor.",
+      "related_verbs": ["test", "sample", "wear", "fit", "experiment"]
+    },
+    {
+      "word": "fit",
+      "type": "verb",
+      "turkish": "Üzerine uymak, bedenine olmak",
+      "example_en": "Does this pair of shoes fit you well?",
+      "example_tr": "Bu ayakkabı çifti ayağına iyi uyuyor mu (bedeni oluyor mu)?",
+      "related_verbs": ["suit", "match", "adapt", "adjust", "accommodate"]
+    },
+    {
+      "word": "suit",
+      "type": "verb",
+      "turkish": "Yaraşmak, yakışmak",
+      "example_en": "That dark color suits you very well.",
+      "example_tr": "O koyu renk sana çok yakışıyor.",
+      "related_verbs": ["fit", "match", "become", "please", "satisfy"]
+    },
+    {
+      "word": "match",
+      "type": "verb",
+      "turkish": "Uyum sağlamak, kombinlemek",
+      "example_en": "She matches her handbag with her shoes.",
+      "example_tr": "El çantasını ayakkabılarıyla uyumlu hale getiriyor (kombinliyor).",
+      "related_verbs": ["fit", "coordinate", "harmonize", "pair", "equal"]
+    },
+    {
+      "word": "order",
+      "type": "verb",
+      "turkish": "Sipariş vermek",
+      "example_en": "Many people order household goods on the internet.",
+      "example_tr": "Birçok insan internetten ev eşyası sipariş veriyor.",
+      "related_verbs": ["request", "command", "book", "arrange", "purchase"]
+    },
+    {
+      "word": "deliver",
+      "type": "verb",
+      "turkish": "Teslim etmek (eve kargo getirmek)",
+      "example_en": "Couriers deliver packages directly to your door.",
+      "example_tr": "Kuryeler paketleri doğrudan kapınıza teslim eder.",
+      "related_verbs": ["bring", "convey", "transport", "hand", "distribute"]
+    },
+    {
+      "word": "collect",
+      "type": "verb",
+      "turkish": "Teslim almak, toplamak",
+      "example_en": "You can collect your online order from the store.",
+      "example_tr": "Çevrimiçi siparişinizi mağazadan teslim alabilirsiniz.",
+      "related_verbs": ["gather", "pick up", "accumulate", "assemble", "acquire"]
+    },
+    {
+      "word": "compare",
+      "type": "verb",
+      "turkish": "Karşılaştırmak (fiyatları)",
+      "example_en": "Smart consumers compare prices before buying.",
+      "example_tr": "Bilinçli tüketiciler satın almadan önce fiyatları karşılaştırır.",
+      "related_verbs": ["contrast", "evaluate", "examine", "weigh", "check"]
+    },
+    {
+      "word": "waste",
+      "type": "verb",
+      "turkish": "Boşuna harcamak, israf etmek",
+      "example_en": "Try not to waste money on unnecessary things.",
+      "example_tr": "Gereksiz şeylere para israf etmemeye çalış.",
+      "related_verbs": ["squander", "lose", "misuse", "drain", "consume"]
+    },
+    {
+      "word": "invest",
+      "type": "verb",
+      "turkish": "Yatırım yapmak",
+      "example_en": "People invest money in stocks and real estate.",
+      "example_tr": "İnsanlar hisse senetlerine ve gayrimenkule para yatırır.",
+      "related_verbs": ["fund", "venture", "commit", "place", "back"]
+    },
+    {
+      "word": "withdraw",
+      "type": "verb",
+      "turkish": "Para çekmek (bankamatikten)",
+      "example_en": "He withdraws cash from the ATM machine.",
+      "example_tr": "ATM'den nakit para çekiyor.",
+      "related_verbs": ["remove", "take", "extract", "pull", "retire"]
+    },
+    {
+      "word": "deposit",
+      "type": "verb",
+      "turkish": "Para yatırmak (bankaya)",
+      "example_en": "She deposits her monthly paycheck into her bank account.",
+      "example_tr": "Aylık maaşını banka hesabına yatırıyor.",
+      "related_verbs": ["save", "store", "place", "bank", "put"]
+    },
+    {
+      "word": "calculate",
+      "type": "verb",
+      "turkish": "Hesaplamak (toplam tutarı)",
+      "example_en": "The cashier calculates the total amount of the shopping.",
+      "example_tr": "Kasiyer alışverişin toplam tutarını hesaplıyor.",
+      "related_verbs": ["compute", "figure", "estimate", "count", "sum"]
+    },
+    {
+      "word": "wrap",
+      "type": "verb",
+      "turkish": "Paketlemek, sarmak (hediyeyi)",
+      "example_en": "Can you wrap this gift in nice paper, please?",
+      "example_tr": "Bu hediyeyi güzel bir kağıda sarmat/paketlemekabilir misiniz lütfen?",
+      "related_verbs": ["pack", "fold", "cover", "envelop", "bind"]
+    },
+    {
+      "word": "recommend",
+      "type": "verb",
+      "turkish": "Tavsiye etmek (ürün önermek)",
+      "example_en": "The shop assistant recommends this brand of coffee.",
+      "example_tr": "Mağaza çalışanı bu kahve markasını tavsiye ediyor.",
+      "related_verbs": ["suggest", "advise", "endorse", "propose", "advocate"]
+    },
+    {
+      "word": "suggest",
+      "type": "verb",
+      "turkish": "Önermek",
+      "example_en": "She suggests buying a larger size.",
+      "example_tr": "Daha büyük bir beden satın almayı öneriyor.",
+      "related_verbs": ["recommend", "propose", "advise", "offer", "hint"]
+    },
+    {
+      "word": "inquire",
+      "type": "verb",
+      "turkish": "Sormak, bilgi almak (fiyat/stok)",
+      "example_en": "He inquires about product availability.",
+      "example_tr": "Ürünün stokta olup olmadığını soruyor (bilgi alıyor).",
+      "related_verbs": ["ask", "question", "investigate", "explore", "query"]
+    },
+    {
+      "word": "sell",
+      "type": "verb",
+      "turkish": "Satmak",
+      "example_en": "Local shops sell organic food products.",
+      "example_tr": "Yerel dükkanlar organik gıda ürünleri satıyor.",
+      "related_verbs": ["market", "vend", "trade", "retail", "auction"]
+    },
+    {
+      "word": "advertise",
+      "type": "verb",
+      "turkish": "Reklamını yapmak",
+      "example_en": "Supermarkets advertise weekly discounts in catalogs.",
+      "example_tr": "Süpermarketler kataloglarda haftalık indirimlerin reklamını yapar.",
+      "related_verbs": ["promote", "market", "announce", "publicize", "broadcast"]
+    },
+    {
+      "word": "use",
+      "type": "verb",
+      "turkish": "Kullanmak (kart/nakit)",
+      "example_en": "Many shops use contactless payment systems.",
+      "example_tr": "Birçok dükkan temassız ödeme sistemlerini kullanıyor.",
+      "related_verbs": ["utilize", "apply", "employ", "operate", "handle"]
+    },
+    {
+      "word": "check",
+      "type": "verb",
+      "turkish": "Kontrol etmek (fişi/fiyatı)",
+      "example_en": "Always check your receipt after payment.",
+      "example_tr": "Ödemeden sonra her zaman fişini kontrol et.",
+      "related_verbs": ["examine", "inspect", "verify", "test", "review"]
+    },
+    {
+      "word": "waste",
+      "type": "verb",
+      "turkish": "Boşa harcamak (zamanı/parayı)",
+      "example_en": "Do not waste time looking for parking space.",
+      "example_tr": "Park yeri arayarak zaman harcama.",
+      "related_verbs": ["squander", "lose", "misuse", "drain", "consume"]
+    },
+    {
+      "word": "save",
+      "type": "verb",
+      "turkish": "Tasarruf etmek",
+      "example_en": "Shopping during sales helps you save money.",
+      "example_tr": "İndirim dönemlerinde alışveriş yapmak para tasarrufu etmene yardımcı olur.",
+      "related_verbs": ["accumulate", "collect", "reserve", "store", "economize"]
+    },
+    {
+      "word": "afford",
+      "type": "verb",
+      "turkish": "Maddi gücü yetmek",
+      "example_en": "We can finally afford a new television.",
+      "example_tr": "Sonunda yeni bir televizyon alacak maddi güce sahibiz.",
+      "related_verbs": ["manage", "spare", "support", "bear", "allow"]
+    },
+    {
+      "word": "shop",
+      "type": "verb",
+      "turkish": "Pazar alışverişi yapmak",
+      "example_en": "Elderly people prefer to shop at local street markets.",
+      "example_tr": "Yaşlı insanlar yerel sokak pazarlarında alışveriş yapmayı tercih eder.",
+      "related_verbs": ["purchase", "buy", "browse", "market", "acquire"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Keyif almak (alışverişten)",
+      "example_en": "Some people enjoy shopping with friends on weekends.",
+      "example_tr": "Bazı insanlar hafta sonları arkadaşlarıyla alışveriş yapmaktan keyif alır.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    },
+    {
+      "word": "plan",
+      "type": "verb",
+      "turkish": "Bütçe planlamak",
+      "example_en": "Families plan their monthly shopping budgets.",
+      "example_tr": "Aileler aylık alışveriş bütçelerini planlar.",
+      "related_verbs": ["design", "prepare", "arrange", "schedule", "map"]
+    },
+    {
+      "word": "find",
+      "type": "verb",
+      "turkish": "Bulmak (indirimli ürün)",
+      "example_en": "I always find great bargains in this shop.",
+      "example_tr": "Bu dükkanda her zaman harika ucuzluklar/fırsatlar buluyorum.",
+      "related_verbs": ["discover", "locate", "spot", "detect", "encounter"]
+    },
+    {
+      "word": "choose",
+      "type": "verb",
+      "turkish": "Tercih etmek, seçmek",
+      "example_en": "Consumers choose eco-friendly products nowadays.",
+      "example_tr": "Tüketiciler günümüzde çevre dostu ürünleri tercih ediyor.",
+      "related_verbs": ["select", "pick", "opt", "decide", "prefer"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarmak (bütçe dahilinde kalmayı)",
+      "example_en": "She succeeds in saving money every month.",
+      "example_tr": "Her ay para biriktirmeyi başarıyor.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "value",
+      "type": "verb",
+      "turkish": "Değer biçmek, önemsemek",
+      "example_en": "Smart shoppers value high quality and fair prices.",
+      "example_tr": "Bilinçli alışveriş yapanlar yüksek kaliteye ve adil fiyatlara değer verir.",
+      "related_verbs": ["appreciate", "prize", "cherish", "esteem", "respect"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 4,
+  "scene_title": "Travel and Directions",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "travel",
+      "type": "verb",
+      "turkish": "Seyahat etmek",
+      "example_en": "Millions of people travel during the summer holidays.",
+      "example_tr": "Milyonlarca insan yaz tatilinde seyahat eder.",
+      "related_verbs": ["journey", "trip", "tour", "visit", "explore"]
+    },
+    {
+      "word": "explore",
+      "type": "verb",
+      "turkish": "Keşfetmek, gezmek",
+      "example_en": "Tourists explore historical streets in the old city.",
+      "example_tr": "Turistler eski şehirdeki tarihi sokakları keşfediyor.",
+      "related_verbs": ["discover", "investigate", "inspect", "search", "examine"]
+    },
+    {
+      "word": "visit",
+      "type": "verb",
+      "turkish": "Ziyaret etmek",
+      "example_en": "We visit famous museums and monuments.",
+      "example_tr": "Ünlü müzeleri ve anıtları ziyaret ediyoruz.",
+      "related_verbs": ["tour", "attend", "call", "frequent", "see"]
+    },
+    {
+      "word": "plan",
+      "type": "verb",
+      "turkish": "Planlamak",
+      "example_en": "She plans her vacation months in advance.",
+      "example_tr": "Tatilini aylar öncesinden planlıyor.",
+      "related_verbs": ["design", "prepare", "arrange", "schedule", "map"]
+    },
+    {
+      "word": "book",
+      "type": "verb",
+      "turkish": "Yer ayırtmak, rezervasyon yapmak",
+      "example_en": "He books flight tickets online.",
+      "example_tr": "Çevrimiçi uçak bileti rezervasyonu yapıyor.",
+      "related_verbs": ["reserve", "secure", "order", "register", "schedule"]
+    },
+    {
+      "word": "reserve",
+      "type": "verb",
+      "turkish": "Rezervasyon yapmak, ayırmak",
+      "example_en": "I want to reserve a hotel room for three nights.",
+      "example_tr": "Üç geceliğine bir otel odası ayırtmak istiyorum.",
+      "related_verbs": ["book", "keep", "save", "retain", "hold"]
+    },
+    {
+      "word": "pack",
+      "type": "verb",
+      "turkish": "Valiz hazırlamak, eşya toplamak",
+      "example_en": "They pack their bags the night before departure.",
+      "example_tr": "Yola çıkmadan önceki gece valizlerini hazırlarlar.",
+      "related_verbs": ["load", "wrap", "box", "bundle", "fill"]
+    },
+    {
+      "word": "depart",
+      "type": "verb",
+      "turkish": "Kalkmak, hareket etmek (tren/uçak)",
+      "example_en": "The train departs from platform two at nine.",
+      "example_tr": "Tren saat dokuzda ikinci perondan hareket ediyor.",
+      "related_verbs": ["leave", "exit", "start", "sail", "take off"]
+    },
+    {
+      "word": "arrive",
+      "type": "verb",
+      "turkish": "Varmak, ulaşmak",
+      "example_en": "We arrive at the airport two hours before the flight.",
+      "example_tr": "Uçuştan iki saat önce havalimanına varıyoruz.",
+      "related_verbs": ["reach", "get", "land", "come", "appear"]
+    },
+    {
+      "word": "land",
+      "type": "verb",
+      "turkish": "İniş yapmak (uçak)",
+      "example_en": "The plane lands safely despite bad weather.",
+      "example_tr": "Uçak kötü havaya rağmen güvenli bir şekilde iniş yapıyor.",
+      "related_verbs": ["touch down", "arrive", "descend", "come", "fall"]
+    },
+    {
+      "word": "fly",
+      "type": "verb",
+      "turkish": "Uçmak",
+      "example_en": "Business travelers fly frequently between cities.",
+      "example_tr": "İş seyahatindekiler şehirler arasında sık sık uçuyor.",
+      "related_verbs": ["soar", "glide", "pilot", "hover", "travel"]
+    },
+    {
+      "word": "drive",
+      "type": "verb",
+      "turkish": "Araba kullanmak (seyahat ederken)",
+      "example_en": "They drive along the scenic coastal road.",
+      "example_tr": "Manzaralı sahil yolu boyunca araba sürüyorlar.",
+      "related_verbs": ["operate", "handle", "ride", "pilot", "steering"]
+    },
+    {
+      "word": "ride",
+      "type": "verb",
+      "turkish": "Binmek (bisiklet/tren/otobüs)",
+      "example_en": " Tourists ride bicycles around the historical park.",
+      "example_tr": "Turistler tarihi parkın etrafında bisiklete biniyor.",
+      "related_verbs": ["travel", "handle", "control", "drive", "mount"]
+    },
+    {
+      "word": "navigate",
+      "type": "verb",
+      "turkish": "Yön bulmak, yönlendirmek",
+      "example_en": "We navigate using a map application on the phone.",
+      "example_tr": "Telefondaki harita uygulamasını kullanarak yönümüzü buluyoruz.",
+      "related_verbs": ["pilot", "steer", "guide", "direct", "sail"]
+    },
+    {
+      "word": "walk",
+      "type": "verb",
+      "turkish": "Yürümek",
+      "example_en": "Visitors walk through the pedestrian zone.",
+      "example_tr": "Ziyaretçiler yaya bölgesinde yürüyor.",
+      "related_verbs": ["step", "march", "stroll", "amble", "hike"]
+    },
+    {
+      "word": "cross",
+      "type": "verb",
+      "turkish": "Karşıya geçmek",
+      "example_en": "Pedestrians cross the street at the zebra crossing.",
+      "example_tr": "Yayalar caddeden yaya geçidinde karşıya geçiyor.",
+      "related_verbs": ["traverse", "pass", "intersect", "bridge", "cut"]
+    },
+    {
+      "word": "turn",
+      "type": "verb",
+      "turkish": "Dönmek (sağa/sola)",
+      "example_en": "Turn left at the next traffic lights.",
+      "example_tr": "Sonraki trafik ışıklarından sola dönün.",
+      "related_verbs": ["rotate", "spin", "twist", "bend", "revolve"]
+    },
+    {
+      "word": "follow",
+      "type": "verb",
+      "turkish": "Takip etmek",
+      "example_en": "Follow the road signs to reach the museum.",
+      "example_tr": "Müzeye ulaşmak için yol tabelalarını takip edin.",
+      "related_verbs": ["pursue", "track", "trace", "shadow", "obey"]
+    },
+    {
+      "word": "locate",
+      "type": "verb",
+      "turkish": "Yerini bulmak, konumlandırmak",
+      "example_en": "Can you help me locate the central station?",
+      "example_tr": "Merkezi tren istasyonunun yerini bulmama yardım edebilir misiniz?",
+      "related_verbs": ["find", "spot", "detect", "identify", "place"]
+    },
+    {
+      "word": "ask",
+      "type": "verb",
+      "turkish": "Sormak (yol sormak)",
+      "example_en": "He asks a police officer for directions.",
+      "example_tr": "Yol tarifi için bir polis memuruna soruyor.",
+      "related_verbs": ["question", "inquire", "request", "beg", "query"]
+    },
+    {
+      "word": "direct",
+      "type": "verb",
+      "turkish": "Yönlendirmek",
+      "example_en": "The guide directs tourists toward the castle.",
+      "example_tr": "Rehber turistleri şatoya doğru yönlendiriyor.",
+      "related_verbs": ["guide", "lead", "manage", "instruct", "command"]
+    },
+    {
+      "word": "stroll",
+      "type": "verb",
+      "turkish": "Gezinmek, aylak aylak yürümek",
+      "example_en": "Couples stroll along the river bank in the evening.",
+      "example_tr": "Çiftler akşam nehir kıyısında geziniyor.",
+      "related_verbs": ["walk", "wander", "saunter", "amble", "ramble"]
+    },
+    {
+      "word": "wander",
+      "type": "verb",
+      "turkish": "Dolaşmak, gezinmek",
+      "example_en": "I love to wander around foreign cities without a map.",
+      "example_tr": "Harita olmadan yabancı şehirlerde dolaşmayı seviyorum.",
+      "related_verbs": ["stray", "roam", "drift", "ramble", "stroll"]
+    },
+    {
+      "word": "stay",
+      "type": "verb",
+      "turkish": "Kalmak, konaklamak",
+      "example_en": "We stay at a cozy boutique hotel downtown.",
+      "example_tr": "Şehir merkezinde rahat bir butik otelde konaklıyoruz.",
+      "related_verbs": ["reside", "remain", "dwell", "lodge", "wait"]
+    },
+    {
+      "word": "check in",
+      "type": "verb",
+      "turkish": "Otele/uçuşa giriş yapmak",
+      "example_en": "Guests check in at the reception desk.",
+      "example_tr": "Misafirler resepsiyon bankosunda otele giriş yapıyor.",
+      "related_verbs": ["register", "arrive", "enter", "report", "log"]
+    },
+    {
+      "word": "check out",
+      "type": "verb",
+      "turkish": "Otelden ayrılmak, çıkış yapmak",
+      "example_en": "We check out of the hotel before twelve noon.",
+      "example_tr": "Öğle saat on ikiden önce otelden çıkış yapıyoruz.",
+      "related_verbs": ["leave", "depart", "settle", "exit", "close"]
+    },
+    {
+      "word": "rent",
+      "type": "verb",
+      "turkish": "Kiralamak (araba/daire)",
+      "example_en": "They rent a car to travel around the island.",
+      "example_tr": "Adanın etrafında seyahat etmek için bir araba kiralıyorlar.",
+      "related_verbs": ["lease", "hire", "borrow", "let", "charter"]
+    },
+    {
+      "word": "lose",
+      "type": "verb",
+      "turkish": "Kaybetmek (yolunu kaybetmek)",
+      "example_en": "Be careful not to lose your way in the old town.",
+      "example_tr": "Eski şehirde yolunu kaybetmemeye dikkat et.",
+      "related_verbs": ["misplace", "forfeit", "drop", "miss", "fail"]
+    },
+    {
+      "word": "find",
+      "type": "verb",
+      "turkish": "Bulmak",
+      "example_en": "We finally find a nice traditional restaurant.",
+      "example_tr": "Sonunda güzel geleneksel bir restoran buluyoruz.",
+      "related_verbs": ["discover", "locate", "spot", "detect", "encounter"]
+    },
+    {
+      "word": "miss",
+      "type": "verb",
+      "turkish": "Kaçırmak (treni/uçağı)",
+      "example_en": "Run quickly, or we will miss the bus!",
+      "example_tr": "Hızlı koş, yoksa otobüsü kaçıracağız!",
+      "related_verbs": ["lose", "fail", "skip", "overlook", "omit"]
+    },
+    {
+      "word": "catch",
+      "type": "verb",
+      "turkish": "Yakalamak, yetişmek (otobüse/trene)",
+      "example_en": "She runs to catch the morning train.",
+      "example_tr": "Sabah trenine yetişmek için koşuyor.",
+      "related_verbs": ["grab", "seize", "capture", "snatch", "trap"]
+    },
+    {
+      "word": "wait",
+      "type": "verb",
+      "turkish": "Beklemek",
+      "example_en": "Passengers wait for the bus at the station.",
+      "example_tr": "Yolcular istasyonda otobüsü bekliyor.",
+      "related_verbs": ["stay", "remain", "pause", "halt", "expect"]
+    },
+    {
+      "word": "delay",
+      "type": "verb",
+      "turkish": "Geciktirmek, ertelemek",
+      "example_en": "Heavy snow delays international flights.",
+      "example_tr": "Yoğun kar uluslararası uçuşları geciktiriyor.",
+      "related_verbs": ["postpone", "defer", "slow", "procrastinate", "hold"]
+    },
+    {
+      "word": "cancel",
+      "type": "verb",
+      "turkish": "İptal etmek",
+      "example_en": "The airline cancels flights due to storm warnings.",
+      "example_tr": "Havayolu şirketi fırtına uyarıları nedeniyle uçuşları iptal ediyor.",
+      "related_verbs": ["call off", "abort", "revoke", "rescind", "terminate"]
+    },
+    {
+      "word": "exchange",
+      "type": "verb",
+      "turkish": "Değiştirmek (para bozdurmak)",
+      "example_en": "Tourists exchange money at the bank.",
+      "example_tr": "Turistler bankada para bozduruyor.",
+      "related_verbs": ["swap", "trade", "switch", "replace", "convert"]
+    },
+    {
+      "word": "spend",
+      "type": "verb",
+      "turkish": "Harcamak (para/zaman)",
+      "example_en": "We spend two weeks touring Italy.",
+      "example_tr": "İtalya turu yaparak iki hafta harcıyoruz (geçiriyoruz).",
+      "related_verbs": ["pay", "expend", "consume", "waste", "invest"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Keyfini çıkarmak",
+      "example_en": "Travelers enjoy breathtaking mountain views.",
+      "example_tr": "Gezginler nefes kesici dağ manzaralarının tadını çıkarıyor.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    },
+    {
+      "word": "photograph",
+      "type": "verb",
+      "turkish": "Fotoğraflamak",
+      "example_en": "Visitors photograph historical landmarks.",
+      "example_tr": "Ziyaretçiler tarihi simge yapıları fotoğraflıyor.",
+      "related_verbs": ["snap", "shoot", "capture", "film", "record"]
+    },
+    {
+      "word": "buy",
+      "type": "verb",
+      "turkish": "Satın almak (hediyelik eşya)",
+      "example_en": "People buy souvenirs for their friends.",
+      "example_tr": "İnsanlar arkadaşları için hediyelik eşya satın alıyor.",
+      "related_verbs": ["purchase", "acquire", "obtain", "procure", "shop"]
+    },
+    {
+      "word": "recommend",
+      "type": "verb",
+      "turkish": "Tavsiye etmek",
+      "example_en": "The receptionist recommends a local seafood restaurant.",
+      "example_tr": "Resepsiyonist yerel bir deniz ürünleri restoranı tavsiye ediyor.",
+      "related_verbs": ["suggest", "advise", "endorse", "propose", "advocate"]
+    },
+    {
+      "word": "pack",
+      "type": "verb",
+      "turkish": "Toplamak, paketlemek",
+      "example_en": "Remember to pack your passport and tickets.",
+      "example_tr": "Pasaportunu ve biletlerini paketlemeyi/yanına almayı unutma.",
+      "related_verbs": ["load", "wrap", "box", "bundle", "fill"]
+    },
+    {
+      "word": "return",
+      "type": "verb",
+      "turkish": "Geri dönmek",
+      "example_en": "They return home after a wonderful holiday.",
+      "example_tr": "Harika bir tatile veda edip eve geri dönüyorlar.",
+      "related_verbs": ["come", "go", "revert", "reply", "give"]
+    },
+    {
+      "word": "relax",
+      "type": "verb",
+      "turkish": "Dinlenmek, tatil yapıp rahatlamak",
+      "example_en": "We relax on the beach during the afternoon.",
+      "example_tr": "Öğleden sonra kumsalda dinleniyoruz.",
+      "related_verbs": ["rest", "unwind", "calm", "ease", "loosen"]
+    },
+    {
+      "word": "experience",
+      "type": "verb",
+      "turkish": "Deneyimlemek, yaşamak",
+      "example_en": "Foreigners experience different cultures while traveling.",
+      "example_tr": "Yabancılar seyahat ederken farklı kültürleri deneyimliyor.",
+      "related_verbs": ["undergo", "face", "encounter", "feel", "live"]
+    },
+    {
+      "word": "discover",
+      "type": "verb",
+      "turkish": "Keşfetmek",
+      "example_en": "Travelers discover hidden beaches along the coast.",
+      "example_tr": "Gezginler sahil boyunca gizli plajları keşfediyor.",
+      "related_verbs": ["find", "explore", "detect", "uncover", "spot"]
+    },
+    {
+      "word": "observe",
+      "type": "verb",
+      "turkish": "Gözlemlemek",
+      "example_en": "Tourists observe local traditions and lifestyle.",
+      "example_tr": "Turistler yerel gelenekleri ve yaşam tarzını gözlemliyor.",
+      "related_verbs": ["watch", "notice", "view", "see", "monitor"]
+    },
+    {
+      "word": "contact",
+      "type": "verb",
+      "turkish": "İletişime geçmek",
+      "example_en": "Contact the travel agency if you have questions.",
+      "example_tr": "Sorularınız varsa seyahat acentesiyle iletişime geçin.",
+      "related_verbs": ["reach", "connect", "call", "communicate", "meet"]
+    },
+    {
+      "word": "confirm",
+      "type": "verb",
+      "turkish": "Onaylamak (rezervasyonu/bileti)",
+      "example_en": "Please confirm your flight reservation online.",
+      "example_tr": "Lütfen uçuş rezervasyonunuzu çevrimiçi olarak onaylayın.",
+      "related_verbs": ["verify", "validate", "approve", "certify", "stipulate"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarmak (seyahat planını sorunsuz tamamlamak)",
+      "example_en": "We succeed in visiting all major sights in two days.",
+      "example_tr": "İki günde tüm önemli turistik yerleri ziyaret etmeyi başarıyoruz.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "value",
+      "type": "verb",
+      "turkish": "Değer vermek (anıya/seyahate)",
+      "example_en": "We value these unforgettable travel memories.",
+      "example_tr": "Bu unutulmaz seyahat anılarına değer veriyoruz.",
+      "related_verbs": ["appreciate", "prize", "cherish", "esteem", "respect"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 3,
+  "scene_title": "Education and Learning",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "study",
+      "type": "verb",
+      "turkish": "Ders çalışmak, öğrenim görmek",
+      "example_en": "Students study hard for their final exams.",
+      "example_tr": "Öğrenciler final sınavları için sıkı çalışır.",
+      "related_verbs": ["learn", "read", "examine", "review", "research"]
+    },
+    {
+      "word": "learn",
+      "type": "verb",
+      "turkish": "Öğrenmek",
+      "example_en": "Children learn new vocabulary every day.",
+      "example_tr": "Çocuklar her gün yeni kelimeler öğrenir.",
+      "related_verbs": ["acquire", "grasp", "master", "absorb", "discover"]
+    },
+    {
+      "word": "teach",
+      "type": "verb",
+      "turkish": "Öğretmek",
+      "example_en": "Professors teach various subjects at the university.",
+      "example_tr": "Profesörler üniversitede çeşitli dersler öğretir.",
+      "related_verbs": ["educate", "instruct", "train", "coach", "tutorship"]
+    },
+    {
+      "word": "educate",
+      "type": "verb",
+      "turkish": "Eğitmek",
+      "example_en": "Schools educate young people for the future.",
+      "example_tr": "Okullar gençleri geleceğe eğitir.",
+      "related_verbs": ["teach", "train", "instruct", "school", "develop"]
+    },
+    {
+      "word": "attend",
+      "type": "verb",
+      "turkish": "Katılmak (derslere/okula)",
+      "example_en": "Pupils attend classes from Monday to Friday.",
+      "example_tr": "Öğrenciler pazartesiden cumaya derslere katılır.",
+      "related_verbs": ["join", "participate", "presence", "frequent", "visit"]
+    },
+    {
+      "word": "read",
+      "type": "verb",
+      "turkish": "Okumak (kitap/makale)",
+      "example_en": "She reads educational books in the library.",
+      "example_tr": "Kütüphanede eğitici kitaplar okuyor.",
+      "related_verbs": ["peruse", "scan", "review", "browse", "study"]
+    },
+    {
+      "word": "write",
+      "type": "verb",
+      "turkish": "Yazmak (not/kompozisyon)",
+      "example_en": "He writes essays for his literature class.",
+      "example_tr": "Edebiyat dersi için kompozisyonlar yazıyor.",
+      "related_verbs": ["author", "compose", "draft", "record", "pen"]
+    },
+    {
+      "word": "listen",
+      "type": "verb",
+      "turkish": "Dinlemek (öğretmeni/dersi)",
+      "example_en": "Students listen carefully to the teacher's explanation.",
+      "example_tr": "Öğrenciler öğretmenin açıklamasını dikkatle dinler.",
+      "related_verbs": ["hear", "attend", "heed", "ear", "receive"]
+    },
+    {
+      "word": "understand",
+      "type": "verb",
+      "turkish": "Anlamak",
+      "example_en": "Do you understand the math formula?",
+      "example_tr": "Matematik formülünü anlıyor musun?",
+      "related_verbs": ["comprehend", "grasp", "realize", "know", "perceive"]
+    },
+    {
+      "word": "explain",
+      "type": "verb",
+      "turkish": "Açıklamak",
+      "example_en": "The teacher explains grammar rules clearly.",
+      "example_tr": "Öğretmen dil bilgisi kurallarını net bir şekilde açıklar.",
+      "related_verbs": ["describe", "clarify", "illustrate", "interpret", "define"]
+    },
+    {
+      "word": "practice",
+      "type": "verb",
+      "turkish": "Pratik yapmak, alıştırma yapmak",
+      "example_en": "We practice speaking English in pairs.",
+      "example_tr": "İkili gruplar halinde İngilizce konuşma pratiği yapıyoruz.",
+      "related_verbs": ["exercise", "rehearse", "train", "drill", "repeat"]
+    },
+    {
+      "word": "memorize",
+      "type": "verb",
+      "turkish": "Ezberlemek",
+      "example_en": "Language learners memorize irregular verbs.",
+      "example_tr": "Dil öğrenenler düzensiz fiilleri ezberler.",
+      "related_verbs": ["remember", "retain", "recall", "store", "learn"]
+    },
+    {
+      "word": "forget",
+      "type": "verb",
+      "turkish": "Unutmak",
+      "example_en": "Never forget to bring your textbook.",
+      "example_tr": "Ders kitabını getirmeyi asla unutma.",
+      "related_verbs": ["misplace", "omit", "lose", "overlook", "lapse"]
+    },
+    {
+      "word": "remember",
+      "type": "verb",
+      "turkish": "Hatırlamak",
+      "example_en": "I remember the correct answers for the test.",
+      "example_tr": "Test için doğru cevapları hatırlıyorum.",
+      "related_verbs": ["recall", "recollect", "retain", "remind", "memorize"]
+    },
+    {
+      "word": "ask",
+      "type": "verb",
+      "turkish": "Sormak (soru sormak)",
+      "example_en": "She asks a question about the homework.",
+      "example_tr": "Ev ödevi hakkında bir soru soruyor.",
+      "related_verbs": ["question", "inquire", "request", "beg", "query"]
+    },
+    {
+      "word": "answer",
+      "type": "verb",
+      "turkish": "Cevap vermek",
+      "example_en": "He answers the exam questions correctly.",
+      "example_tr": "Sınav sorularını doğru bir şekilde cevaplıyor.",
+      "related_verbs": ["reply", "respond", "solve", "react", "fulfil"]
+    },
+    {
+      "word": "correct",
+      "type": "verb",
+      "turkish": "Düzeltmek, hatayı gidermek",
+      "example_en": "The teacher corrects spelling mistakes.",
+      "example_tr": "Öğretmen imla hatalarını düzeltiyor.",
+      "related_verbs": ["fix", "amend", "repair", "adjust", "revise"]
+    },
+    {
+      "word": "test",
+      "type": "verb",
+      "turkish": "Test etmek, sınav yapmak",
+      "example_en": "Instructors test student knowledge regularly.",
+      "example_tr": "Eğitmenler öğrencilerin bilgisini düzenli olarak test eder.",
+      "related_verbs": ["examine", "evaluate", "assess", "check", "trial"]
+    },
+    {
+      "word": "examine",
+      "type": "verb",
+      "turkish": "İncelemek, sınava tabi tutmak",
+      "example_en": "Professors examine students orally.",
+      "example_tr": "Profesörler öğrencileri sözlü olarak sınava tabi tutar.",
+      "related_verbs": ["inspect", "investigate", "test", "analyze", "evaluate"]
+    },
+    {
+      "word": "pass",
+      "type": "verb",
+      "turkish": "Geçmek (sınavı)",
+      "example_en": "All candidates pass the language proficiency exam.",
+      "example_tr": "Tüm adaylar dil yeterlilik sınavını geçiyor.",
+      "related_verbs": ["succeed", "clear", "exceed", "surpass", "qualify"]
+    },
+    {
+      "word": "fail",
+      "type": "verb",
+      "turkish": "Başarısız olmak, dersten kalmak",
+      "example_en": "If you do not study, you will fail the course.",
+      "example_tr": "Eğer ders çalışmazsan, dersten kalacaksın.",
+      "related_verbs": ["lose", "miss", "flop", "collapse", "underperform"]
+    },
+    {
+      "word": "grade",
+      "type": "verb",
+      "turkish": "Not vermek, derecelendirmek",
+      "example_en": "Teachers grade papers over the weekend.",
+      "example_tr": "Öğretmenler hafta sonu kağıtları notlandırıyor.",
+      "related_verbs": ["rate", "evaluate", "score", "assess", "mark"]
+    },
+    {
+      "word": "evaluate",
+      "type": "verb",
+      "turkish": "Değerlendirmek",
+      "example_en": "Schools evaluate student progress every term.",
+      "example_tr": "Okullar her dönem öğrenci ilerlemesini değerlendirir.",
+      "related_verbs": ["assess", "judge", "rate", "value", "appraise"]
+    },
+    {
+      "word": "graduate",
+      "type": "verb",
+      "turkish": "Mezun olmak",
+      "example_en": "She graduates from university next June.",
+      "example_tr": "Gelecek haziran ayında üniversiteden mezun oluyor.",
+      "related_verbs": ["finish", "conclude", "complete", "qualify", "pass"]
+    },
+    {
+      "word": "enroll",
+      "type": "verb",
+      "turkish": "Kayıt olmak",
+      "example_en": "Students enroll in online certification courses.",
+      "example_tr": "Öğrenciler çevrimiçi sertifika kurslarına kayıt oluyor.",
+      "related_verbs": ["register", "join", "sign", "enter", "subscribe"]
+    },
+    {
+      "word": "register",
+      "type": "verb",
+      "turkish": "Kayıt yaptırmak",
+      "example_en": "You must register for classes before September.",
+      "example_tr": "Eylül ayından önce derslere kayıt yaptırmalısın.",
+      "related_verbs": ["enroll", "sign", "book", "record", "list"]
+    },
+    {
+      "word": "participate",
+      "type": "verb",
+      "turkish": "Katılmak (etkinliğe/tartışmaya)",
+      "example_en": "Active learners participate in classroom discussions.",
+      "example_tr": "Aktif öğrenciler sınıf tartışmalarına katılır.",
+      "related_verbs": ["join", "attend", "share", "engage", "take"]
+    },
+    {
+      "word": "discuss",
+      "type": "verb",
+      "turkish": "Tartışmak, müzakere etmek",
+      "example_en": "Classmates discuss history topics together.",
+      "example_tr": "Sınıf arkadaşları tarih konularını birlikte tartışıyor.",
+      "related_verbs": ["debate", "talk", "argue", "confer", "consult"]
+    },
+    {
+      "word": "research",
+      "type": "verb",
+      "turkish": "Araştırma yapmak",
+      "example_en": "Scientists research new educational methods.",
+      "example_tr": "Bilim insanları yeni eğitim yöntemleri araştırıyor.",
+      "related_verbs": ["investigate", "explore", "study", "probe", "examine"]
+    },
+    {
+      "word": "discover",
+      "type": "verb",
+      "turkish": "Keşfetmek",
+      "example_en": "Students discover science facts through experiments.",
+      "example_tr": "Öğrenciler deneyler yoluyla bilim gerçeklerini keşfeder.",
+      "related_verbs": ["find", "explore", "detect", "uncover", "spot"]
+    },
+    {
+      "word": "experiment",
+      "type": "verb",
+      "turkish": "Deney yapmak",
+      "example_en": "Chemistry students experiment in the laboratory.",
+      "example_tr": "Kimya öğrencileri laboratuvarda deney yapıyor.",
+      "related_verbs": ["test", "trial", "sample", "try", "analyze"]
+    },
+    {
+      "word": "solve",
+      "type": "verb",
+      "turkish": "Çözmek (problemi/bulmacayı)",
+      "example_en": "Children solve puzzles to improve logic.",
+      "example_tr": "Çocuklar mantığı geliştirmek için bulmacaları çözer.",
+      "related_verbs": ["resolve", "fix", "settle", "figure", "address"]
+    },
+    {
+      "word": "calculate",
+      "type": "verb",
+      "turkish": "Hesaplamak",
+      "example_en": "We calculate math problems using formulas.",
+      "example_tr": "Formülleri kullanarak matematik problemlerini hesaplıyoruz.",
+      "related_verbs": ["compute", "figure", "estimate", "count", "measure"]
+    },
+    {
+      "word": "copy",
+      "type": "verb",
+      "turkish": "Kopyalamak, deftere geçirmek",
+      "example_en": "Copy the notes from the whiteboard.",
+      "example_tr": "Notları tahtadan deftere kopyalayın.",
+      "related_verbs": ["duplicate", "replicate", "imitate", "transcribe", "trace"]
+    },
+    {
+      "word": "repeat",
+      "type": "verb",
+      "turkish": "Tekrarlamak",
+      "example_en": "Can you repeat the question, please?",
+      "example_tr": "Soruyu tekrarlayabilir misiniz lütfen?",
+      "related_verbs": ["iterate", "replicate", "redo", "echo", "duplication"]
+    },
+    {
+      "word": "spell",
+      "type": "verb",
+      "turkish": "Hecelemek, harf harf söylemek",
+      "example_en": "How do you spell your last name?",
+      "example_tr": "Soyadını nasıl hecelersin?",
+      "related_verbs": ["write", "sound", "articulate", "pronounce", "form"]
+    },
+    {
+      "word": "pronounce",
+      "type": "verb",
+      "turkish": "Telaffuz etmek",
+      "example_en": "She pronounces English words very well.",
+      "example_tr": "İngilizce kelimeleri çok iyi telaffuz ediyor.",
+      "related_verbs": ["articulate", "speak", "voice", "utter", "sound"]
+    },
+    {
+      "word": "translate",
+      "type": "verb",
+      "turkish": "Çeviri yapmak",
+      "example_en": "We translate texts from German into Turkish.",
+      "example_tr": "Metinleri Almancadan Türkçeye çeviriyoruz.",
+      "related_verbs": ["interpret", "convert", "transform", "decode", "transliterate"]
+    },
+    {
+      "word": "improve",
+      "type": "verb",
+      "turkish": "Geliştirmek",
+      "example_en": "Reading books improves your vocabulary.",
+      "example_tr": "Kitap okumak kelime dağarcığını geliştirir.",
+      "related_verbs": ["enhance", "better", "upgrade", "progress", "refine"]
+    },
+    {
+      "word": "progress",
+      "type": "verb",
+      "turkish": "İlerlemek, yol kat etmek",
+      "example_en": "Students progress quickly with daily practice.",
+      "example_tr": "Günlük pratikle öğrenciler hızlı bir şekilde ilerler.",
+      "related_verbs": ["advance", "proceed", "develop", "improve", "grow"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarılı olmak",
+      "example_en": "Diligent students succeed in academics.",
+      "example_tr": "Çalışkan öğrenciler akademik alanda başarılı olur.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "achieve",
+      "type": "verb",
+      "turkish": "Başarmak, elde etmek",
+      "example_en": "He achieves high scores on every test.",
+      "example_tr": "Her testte yüksek puanlar elde ediyor.",
+      "related_verbs": ["attain", "accomplish", "reach", "gain", "fulfill"]
+    },
+    {
+      "word": "focus",
+      "type": "verb",
+      "turkish": "Odaklanmak",
+      "example_en": "Focus on the lesson and ignore distractions.",
+      "example_tr": "Dese odaklan ve dikkat dağıtıcı şeyleri görmezden gel.",
+      "related_verbs": ["concentrate", "center", "attend", "direct", "fix"]
+    },
+    {
+      "word": "concentrate",
+      "type": "verb",
+      "turkish": "Konsantre olmak",
+      "example_en": "It is hard to concentrate in a noisy room.",
+      "example_tr": "Gürültülü bir odada konsantre olmak zordur.",
+      "related_verbs": ["focus", "center", "attend", "apply", "direct"]
+    },
+    {
+      "word": "understand",
+      "type": "verb",
+      "turkish": "Kavramak, anlamak",
+      "example_en": "Good teachers help students understand concepts.",
+      "example_tr": "İyi öğretmenler öğrencilerin kavramları anlamasına yardımcı olur.",
+      "related_verbs": ["comprehend", "grasp", "realize", "know", "perceive"]
+    },
+    {
+      "word": "share",
+      "type": "verb",
+      "turkish": "Paylaşmak (fikirleri/notları)",
+      "example_en": "Classmates share notes before exams.",
+      "example_tr": "Sınıf arkadaşları sınav öncesi notları paylaşır.",
+      "related_verbs": ["distribute", "divide", "exchange", "part", "contribute"]
+    },
+    {
+      "word": "cooperate",
+      "type": "verb",
+      "turkish": "İşbirliği yapmak",
+      "example_en": "Students cooperate on group projects.",
+      "example_tr": "Öğrenciler grup projelerinde işbirliği yapıyor.",
+      "related_verbs": ["collaborate", "partner", "assist", "support", "unite"]
+    },
+    {
+      "word": "achieve",
+      "type": "verb",
+      "turkish": "Hedefe ulaşmak",
+      "example_en": "Hard work helps learners achieve educational goals.",
+      "example_tr": "Çok çalışmak, öğrenenlerin eğitim hedeflerine ulaşmasına yardımcı olur.",
+      "related_verbs": ["attain", "accomplish", "reach", "gain", "fulfill"]
+    },
+    {
+      "word": "graduate",
+      "type": "verb",
+      "turkish": "Okulu bitirmek",
+      "example_en": "They graduate with honors this year.",
+      "example_tr": "Bu yıl onur derecesiyle okuldan mezun oluyorlar.",
+      "related_verbs": ["finish", "conclude", "complete", "qualify", "pass"]
+    },
+    {
+      "word": "enjoy",
+      "type": "verb",
+      "turkish": "Keyif almak (öğrenmekten)",
+      "example_en": "Curious minds enjoy learning new things.",
+      "example_tr": "Meraklı zihinler yeni şeyler öğrenmekten keyif alır.",
+      "related_verbs": ["like", "love", "relish", "appreciate", "delight"]
+    }
+  ]
+}
+
+{
+  "level": "A2",
+  "scene_id": 2,
+  "scene_title": "Work and Professions",
+  "total_words_in_scene": 50,
+  "words": [
+    {
+      "word": "employ",
+      "type": "verb",
+      "turkish": "İstihdam etmek, iş vermek",
+      "example_en": "The company employs over five hundred workers.",
+      "example_tr": "Şirket beş yüzün üzerinde işçi istihdam ediyor.",
+      "related_verbs": ["hire", "engage", "recruit", "appoint", "retain"]
+    },
+    {
+      "word": "hire",
+      "type": "verb",
+      "turkish": "İşe almak",
+      "example_en": "Managers hire new staff for the project.",
+      "example_tr": "Yöneticiler proje için yeni personel işe alıyor.",
+      "related_verbs": ["employ", "recruit", "engage", "appoint", "secure"]
+    },
+    {
+      "word": "resign",
+      "type": "verb",
+      "turkish": "İstifa etmek",
+      "example_en": "He decides to resign from his job next month.",
+      "example_tr": "Gelecek ay işinden istifa etmeye karar veriyor.",
+      "related_verbs": ["quit", "leave", "depart", "step", "surrender"]
+    },
+    {
+      "word": "retire",
+      "type": "verb",
+      "turkish": "Emekli olmak",
+      "example_en": "My uncle retires after working for thirty years.",
+      "example_tr": "Amcam otuz yıl çalıştıktan sonra emekli oluyor.",
+      "related_verbs": ["withdraw", "leave", "depart", "suspend", "conclude"]
+    },
+    {
+      "word": "earn",
+      "type": "verb",
+      "turkish": "Para kazanmak, maaş almak",
+      "example_en": "Engineers earn a good salary.",
+      "example_tr": "Mühendisler iyi bir maaş kazanır.",
+      "related_verbs": ["gain", "make", "win", "acquire", "secure"]
+    },
+    {
+      "word": "promote",
+      "type": "verb",
+      "turkish": "Terfi ettirmek / Desteklemek",
+      "example_en": "The director promotes her to senior manager.",
+      "example_tr": "Direktör onu kıdemli müdürlüğe terfi ettiriyor.",
+      "related_verbs": ["advance", "upgrade", "elevate", "boost", "encourage"]
+    },
+    {
+      "word": "manage",
+      "type": "verb",
+      "turkish": "Yönetmek, idare etmek",
+      "example_en": "She manages a team of ten developers.",
+      "example_tr": "On geliştiriciden oluşan bir ekibi yönetiyor.",
+      "related_verbs": ["direct", "control", "run", "handle", "administer"]
+    },
+    {
+      "word": "supervise",
+      "type": "verb",
+      "turkish": "Denetlemek, gözetmek",
+      "example_en": "Foremen supervise workers on the construction site.",
+      "example_tr": "Formenler inşaat sahasındaki işçileri denetliyor.",
+      "related_verbs": ["oversee", "monitor", "inspect", "watch", "control"]
+    },
+    {
+      "word": "assist",
+      "type": "verb",
+      "turkish": "Asistanlık yapmak, yardım etmek",
+      "example_en": "An assistant assists the doctor during operations.",
+      "example_tr": "Bir asistan ameliyatlar sırasında doktora yardım eder.",
+      "related_verbs": ["help", "aid", "support", "serve", "facilitate"]
+    },
+    {
+      "word": "collaborate",
+      "type": "verb",
+      "turkish": "İşbirliği yapmak",
+      "example_en": "Departments collaborate to launch the new product.",
+      "example_tr": "Departmanlar yeni ürünü piyasaya sürmek için işbirliği yapıyor.",
+      "related_verbs": ["cooperate", "partner", "team", "join", "unite"]
+    },
+    {
+      "word": "communicate",
+      "type": "verb",
+      "turkish": "İletişim kurmak",
+      "example_en": "Employees communicate via email and messaging apps.",
+      "example_tr": "Çalışanlar e-posta ve mesajlaşma uygulamaları aracılığıyla iletişim kurar.",
+      "related_verbs": ["correspond", "interact", "contact", "talk", "connect"]
+    },
+    {
+      "word": "negotiate",
+      "type": "verb",
+      "turkish": "Müzakere etmek, pazarlık yapmak",
+      "example_en": "The lawyer negotiates a contract with the client.",
+      "example_tr": "Avukat, müvekkil ile bir sözleşme müzakere ediyor.",
+      "related_verbs": ["bargain", "discuss", "consult", "deal", "mediate"]
+    },
+    {
+      "word": "design",
+      "type": "verb",
+      "turkish": "Tasarlamak",
+      "example_en": "Graphic designers design logos and websites.",
+      "example_tr": "Grafik tasarımcılar logo ve web siteleri tasarlar.",
+      "related_verbs": ["create", "plan", "fashion", "draft", "invent"]
+    },
+    {
+      "word": "develop",
+      "type": "verb",
+      "turkish": "Geliştirmek (yazılım/proje)",
+      "example_en": "Software engineers develop mobile applications.",
+      "example_tr": "Yazılım mühendisleri mobil uygulamalar geliştirir.",
+      "related_verbs": ["improve", "expand", "build", "grow", "advance"]
+    },
+    {
+      "word": "construct",
+      "type": "verb",
+      "turkish": "İnşa etmek, kurmak",
+      "example_en": "Builders construct residential buildings.",
+      "example_tr": "İnşaatçılar konut binaları inşa eder.",
+      "related_verbs": ["build", "create", "erect", "assemble", "manufacture"]
+    },
+    {
+      "word": "manufacture",
+      "type": "verb",
+      "turkish": "Üretmek, imal etmek",
+      "example_en": "Factories manufacture electronic devices.",
+      "example_tr": "Fabrikalar elektronik cihazlar üretir.",
+      "related_verbs": ["produce", "make", "build", "create", "assemble"]
+    },
+    {
+      "word": "produce",
+      "type": "verb",
+      "turkish": "Üretmek, ortaya koymak",
+      "example_en": "Workers produce high-quality goods.",
+      "example_tr": "İşçiler yüksek kaliteli mallar üretir.",
+      "related_verbs": ["manufacture", "create", "yield", "generate", "make"]
+    },
+    {
+      "word": "market",
+      "type": "verb",
+      "turkish": "Pazarlamak",
+      "example_en": "The marketing team markets new services.",
+      "example_tr": "Pazarlama ekibi yeni hizmetleri pazarlıyor.",
+      "related_verbs": ["advertise", "promote", "sell", "commercialize", "push"]
+    },
+    {
+      "word": "advertise",
+      "type": "verb",
+      "turkish": "Reklamını yapmak",
+      "example_en": "Companies advertise products on social media.",
+      "example_tr": "Şirketler sosyal medyada ürünlerin reklamını yapar.",
+      "related_verbs": ["promote", "market", "announce", "publicize", "broadcast"]
+    },
+    {
+      "word": "sell",
+      "type": "verb",
+      "turkish": "Satış yapmak, satmak",
+      "example_en": "Salespersons sell insurance policies.",
+      "example_tr": "Satış elemanları sigorta poliçeleri satar.",
+      "related_verbs": ["market", "vend", "trade", "retail", "auction"]
+    },
+    {
+      "word": "deliver",
+      "type": "verb",
+      "turkish": "Teslim etmek / Sunum yapmak",
+      "example_en": "She delivers an impressive presentation.",
+      "example_tr": "Etkileyici bir sunum gerçekleştiriyor/sunuyor.",
+      "related_verbs": ["provide", "hand", "convey", "present", "distribute"]
+    },
+    {
+      "word": "administer",
+      "type": "verb",
+      "turkish": "Yönetmek, idare etmek (resmi)",
+      "example_en": "Administrators administer company policies.",
+      "example_tr": "Yöneticiler şirket politikalarını idare eder.",
+      "related_verbs": ["manage", "direct", "govern", "control", "conduct"]
+    },
+    {
+      "word": "organize",
+      "type": "verb",
+      "turkish": "Organize etmek, düzenlemek",
+      "example_en": "Event planners organize corporate conferences.",
+      "example_tr": "Etkinlik planlayıcıları kurumsal konferanslar düzenler.",
+      "related_verbs": ["arrange", "plan", "coordinate", "structure", "systematize"]
+    },
+    {
+      "word": "attend",
+      "type": "verb",
+      "turkish": "Katılmak (toplantıya/konferansa)",
+      "example_en": "All employees attend the weekly briefing.",
+      "example_tr": "Tüm çalışanlar haftalık bilgilendirme toplantısına katılır.",
+      "related_verbs": ["join", "participate", "presence", "frequent", "visit"]
+    },
+    {
+      "word": "present",
+      "type": "verb",
+      "turkish": "Sunmak",
+      "example_en": "The manager presents the annual financial report.",
+      "example_tr": "Müdür yıllık finansal raporu sunuyor.",
+      "related_verbs": ["show", "display", "introduce", "offer", "deliver"]
+    },
+    {
+      "word": "report",
+      "type": "verb",
+      "turkish": "Rapor etmek, bildirmek",
+      "example_en": "Staff report errors to the IT department.",
+      "example_tr": "Personel hataları BT departmanına bildirir.",
+      "related_verbs": ["announce", "inform", "notify", "state", "describe"]
+    },
+    {
+      "word": "investigate",
+      "type": "verb",
+      "turkish": "Araştırmak, incelemek",
+      "example_en": "Inspectors investigate workplace safety issues.",
+      "example_tr": "Müfettişler iş yeri güvenliği konularını araştırıyor.",
+      "related_verbs": ["examine", "explore", "research", "study", "probe"]
+    },
+    {
+      "word": "solve",
+      "type": "verb",
+      "turkish": "Çözmek (problemi)",
+      "example_en": "Technical staff solve computer problems quickly.",
+      "example_tr": "Teknik personel bilgisayar sorunlarını hızlıca çözer.",
+      "related_verbs": ["resolve", "fix", "settle", "figure", "address"]
+    },
+    {
+      "word": "repair",
+      "type": "verb",
+      "turkish": "Tamir etmek",
+      "example_en": "Mechanics repair broken machinery.",
+      "example_tr": "Tamirciler bozuk makineleri onarır.",
+      "related_verbs": ["fix", "mend", "restore", "patch", "service"]
+    },
+    {
+      "word": "operate",
+      "type": "verb",
+      "turkish": "Kullanmak, işletmek (makine/ameliyat)",
+      "example_en": "Operators operate heavy industrial machines.",
+      "example_tr": "Operatörler ağır sanayi makinelerini işletir.",
+      "related_verbs": ["run", "manage", "function", "work", "control"]
+    },
+    {
+      "word": "train",
+      "type": "verb",
+      "turkish": "Eğitmek, staj yapmak",
+      "example_en": "Experienced staff train new recruits.",
+      "example_tr": "Deneyimli personel yeni işe alınanları eğitir.",
+      "related_verbs": ["teach", "educate", "coach", "instruct", "prepare"]
+    },
+    {
+      "word": "educate",
+      "type": "verb",
+      "turkish": "Eğitmek, öğretmek",
+      "example_en": "Teachers educate students in schools.",
+      "example_tr": "Öğretmenler okullarda öğrencileri eğitir.",
+      "related_verbs": ["teach", "train", "instruct", "tutorship", "school"]
+    },
+    {
+      "word": "protect",
+      "type": "verb",
+      "turkish": "Korumak",
+      "example_en": "Security guards protect the office building.",
+      "example_tr": "Güvenlik görevlileri ofis binasını korur.",
+      "related_verbs": ["guard", "shield", "defend", "secure", "preserve"]
+    },
+    {
+      "word": "cure",
+      "type": "verb",
+      "turkish": "İyileştirmek, tedavi etmek",
+      "example_en": "Doctors treat patients and cure illnesses.",
+      "example_tr": "Doktorlar hastaları tedavi eder ve hastalıkları iyileştirir.",
+      "related_verbs": ["heal", "treat", "remedy", "restore", "fix"]
+    },
+    {
+      "word": "serve",
+      "type": "verb",
+      "turkish": "Hizmet etmek, servis yapmak",
+      "example_en": "Waiters serve food in restaurants.",
+      "example_tr": "Garsonlar restoranlarda yemek servisi yapar.",
+      "related_verbs": ["attend", "assist", "help", "function", "deliver"]
+    },
+    {
+      "word": "clean",
+      "type": "verb",
+      "turkish": "Temizlemek",
+      "example_en": "Cleaners clean offices after working hours.",
+      "example_tr": "Temizlikçiler mesai saatlerinden sonra ofisleri temizler.",
+      "related_verbs": ["wash", "sweep", "scrub", "wipe", "tidy"]
+    },
+    {
+      "word": "drive",
+      "type": "verb",
+      "turkish": "Sürmek (araç/kurye)",
+      "example_en": "Drivers deliver packages and drive trucks.",
+      "example_tr": "Şoförler paket teslim eder ve kamyon sürer.",
+      "related_verbs": ["operate", "handle", "ride", "pilot", "steering"]
+    },
+    {
+      "word": "travel",
+      "type": "verb",
+      "turkish": "Seyahat etmek (iş gezisi)",
+      "example_en": "Consultants travel frequently for business meetings.",
+      "example_tr": "Danışmanlar iş toplantıları için sık sık seyahat eder.",
+      "related_verbs": ["journey", "trip", "tour", "visit", "explore"]
+    },
+    {
+      "word": "meet",
+      "type": "verb",
+      "turkish": "Görüşmek, buluşmak (müşteriyle)",
+      "example_en": "Sales reps meet clients every afternoon.",
+      "example_tr": "Satış temsilcileri her öğleden sonra müşterilerle görüşür.",
+      "related_verbs": ["gather", "assemble", "unite", "encounter", "join"]
+    },
+    {
+      "word": "consult",
+      "type": "verb",
+      "turkish": "Danışmak, danışmanlık yapmak",
+      "example_en": "Financial advisors consult clients on investments.",
+      "example_tr": "Finansal danışmanlar müşterilere yatırımlar konusunda danışmanlık yapar.",
+      "related_verbs": ["advise", "discuss", "confer", "negotiate", "reference"]
+    },
+    {
+      "word": "advise",
+      "type": "verb",
+      "turkish": "Tavsiye vermek, önermek",
+      "example_en": "Lawyers advise clients on legal rights.",
+      "example_tr": "Avukatlar müvekkillere yasal haklar konusunda tavsiye verir.",
+      "related_verbs": ["recommend", "suggest", "counsel", "guide", "warn"]
+    },
+    {
+      "word": "interpret",
+      "type": "verb",
+      "turkish": "Çeviri yapmak, yorumlamak",
+      "example_en": "Translators interpret documents and speeches.",
+      "example_tr": "Çevirmenler belgeleri ve konuşmaları çevirir (yorumlar).",
+      "related_verbs": ["translate", "explain", "decode", "clarify", "read"]
+    },
+    {
+      "word": "write",
+      "type": "verb",
+      "turkish": "Yazmak (makale/kod/rapor)",
+      "example_en": "Journalists write news articles for newspapers.",
+      "example_tr": "Gazeteciler gazeteler için haber makaleleri yazar.",
+      "related_verbs": ["author", "compose", "draft", "record", "pen"]
+    },
+    {
+      "word": "edit",
+      "type": "verb",
+      "turkish": "Düzenlemek, yayına hazırlamak",
+      "example_en": "Editors edit text and check grammar.",
+      "example_tr": "Editörler metni düzenler ve dil bilgisini kontrol eder.",
+      "related_verbs": ["revise", "correct", "modify", "amend", "alter"]
+    },
+    {
+      "word": "photograph",
+      "type": "verb",
+      "turkish": "Fotoğraflamak",
+      "example_en": "Photographers photograph models and events.",
+      "example_tr": "Fotoğrafçılar modelleri ve etkinlikleri fotoğraflar.",
+      "related_verbs": ["snap", "shoot", "capture", "film", "record"]
+    },
+    {
+      "word": "perform",
+      "type": "verb",
+      "turkish": "Sahnelemek, icra etmek / Görev yapmak",
+      "example_en": "Actors perform on stage in theaters.",
+      "example_tr": "Aktörler tiyatrolarda sahnede performans sergiler.",
+      "related_verbs": ["execute", "do", "fulfill", "act", "play"]
+    },
+    {
+      "word": "succeed",
+      "type": "verb",
+      "turkish": "Başarılı olmak",
+      "example_en": "Hardworking professionals succeed in their careers.",
+      "example_tr": "Çalışkan profesyoneller kariyerlerinde başarılı olur.",
+      "related_verbs": ["achieve", "prosper", "triumph", "flourish", "accomplish"]
+    },
+    {
+      "word": "earn",
+      "type": "verb",
+      "turkish": "Kazanmak (saygınlık/başarı)",
+      "example_en": "Good employees earn the respect of their peers.",
+      "example_tr": "İyi çalışanlar meslektaşlarının saygısını kazanır.",
+      "related_verbs": ["gain", "make", "win", "acquire", "secure"]
+    },
+    {
+      "word": "cooperate",
+      "type": "verb",
+      "turkish": "Birlikte çalışmak, ortaklık yapmak",
+      "example_en": "Team members cooperate to finish tasks.",
+      "example_tr": "Ekip üyeleri görevleri bitirmek için birlikte çalışır.",
+      "related_verbs": ["collaborate", "partner", "assist", "support", "unite"]
+    },
+    {
+      "word": "plan",
+      "type": "verb",
+      "turkish": "Planlamak",
+      "example_en": "Project managers plan schedules and budgets.",
+      "example_tr": "Proje yöneticileri takvimleri ve bütçeleri planlar.",
+      "related_verbs": ["design", "prepare", "arrange", "schedule", "map"]
+    }
+  ]
+}
